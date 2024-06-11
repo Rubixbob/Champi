@@ -1,0 +1,494 @@
+---------- GCD: 2.5 ----------
+Food: Carrot Pudding
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1613
+Crit: 2462
+Det : 1545
+Sks : 400
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Determination   
+---------- GCD: 2.49 ----------
+Food: Carrot Pudding
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1469
+Crit: 2462
+Det : 1653
+Sks : 436
+Weapon     Ult    Determination    Determination    Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Determination    Skill Speed     
+---------- GCD: 2.48 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1505
+Crit: 2501
+Det : 1520
+Sks : 479
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Determination    Skill Speed     
+---------- GCD: 2.47 ----------
+Food: Carrot Pudding
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1361
+Crit: 2462
+Det : 1653
+Sks : 544
+Weapon     Ult    Determination    Determination    Determination   
+Head       Raid   Determination    Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Determination    Skill Speed     
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Determination    Skill Speed     
+---------- GCD: 2.46 ----------
+Food: Carrot Pudding
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1613
+Crit: 2462
+Det : 1354
+Sks : 591
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Raid   Direct Hit Rate  Determination   
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Determination   
+---------- GCD: 2.45 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1541
+Crit: 2501
+Det : 1329
+Sks : 649
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Raid   Determination    Determination   
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Determination   
+---------- GCD: 2.44 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1469
+Crit: 2501
+Det : 1340
+Sks : 710
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.43 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1405
+Crit: 2506
+Det : 1340
+Sks : 769
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Determination    Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.42 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1361
+Crit: 2501
+Det : 1329
+Sks : 829
+Weapon     Ult    Determination    Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Determination    Skill Speed     
+Legs       Raid   Determination    Determination   
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Determination    Skill Speed     
+---------- GCD: 2.41 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1397
+Crit: 2501
+Det : 1232
+Sks : 890
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Determination    Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.4 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1333
+Crit: 2506
+Det : 1232
+Sks : 949
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.39 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1397
+Crit: 2501
+Det : 1113
+Sks : 1009
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Determination    Determination   
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.38 ----------
+Food: Carrot Pudding
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1361
+Crit: 2462
+Det : 1138
+Sks : 1059
+Weapon     Ult    Determination    Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.37 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1469
+Crit: 2501
+Det : 933
+Sks : 1117
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.36 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1225
+Crit: 2506
+Det : 1113
+Sks : 1176
+Weapon     Ult    Determination    Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Determination    Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Determination    Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.35 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1225
+Crit: 2434
+Det : 1124
+Sks : 1237
+Weapon     Ult    Determination    Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.34 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1261
+Crit: 2406
+Det : 1057
+Sks : 1296
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Raid   Critical Hit     Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Determination    Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.33 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1225
+Crit: 2506
+Det : 933
+Sks : 1356
+Weapon     Ult    Determination    Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.32 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1130
+Crit: 2406
+Det : 1069
+Sks : 1415
+Weapon     Ult    Determination    Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Critical Hit     Critical Hit    
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.31 ----------
+Food: Melon Juice
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1319
+Crit: 2301
+Det : 933
+Sks : 1467
+Weapon     Ult    Determination    Determination    Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.3 ----------
+Food: Melon Juice
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1188
+Crit: 2273
+Det : 1033
+Sks : 1526
+Weapon     Ult    Skill Speed      Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Critical Hit     Critical Hit    
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.29 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1225
+Crit: 2262
+Det : 949
+Sks : 1584
+Weapon     Ult    Skill Speed      Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.28 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1130
+Crit: 2162
+Det : 1085
+Sks : 1643
+Weapon     Ult    Skill Speed      Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Critical Hit     Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.27 ----------
+Food: Sunset Carrot Nibbles
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1286
+Crit: 2026
+Det : 1001
+Sks : 1707
+Weapon     Ult    Determination    Determination    Skill Speed     
+Head       Tomes  Critical Hit     Critical Hit    
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Critical Hit     Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.26 ----------
+Food: Melon Juice
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1586
+Crit: 1322
+Det : 1341
+Sks : 1771
+Weapon     Ult    Determination    Determination    Skill Speed     
+Head       Tomes  Determination    Determination   
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Direct Hit Rate  Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Critical Hit     Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.25 ----------
+Food: Melon Juice
+Wd  : 126
+Str : 2948 | 3095
+Dh  : 1486
+Crit: 1363
+Det : 1341
+Sks : 1830
+Weapon     Ult    Determination    Determination    Skill Speed     
+Head       Tomes  Critical Hit     Determination   
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Direct Hit Rate  Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Tomes  Determination    Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     

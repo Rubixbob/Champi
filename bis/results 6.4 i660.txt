@@ -1,0 +1,437 @@
+---------- GCD: 2.5 ----------
+Food: Baked Eggplant
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1396
+Crit: 2567
+Det : 1870
+Sks : 400
+Weapon     Raid   Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Determination   
+Bracelets  Raid   Direct Hit Rate  Determination   
+Ring       Tomes  Direct Hit Rate  Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.49 ----------
+Food: Baked Eggplant
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1468
+Crit: 2567
+Det : 1762
+Sks : 436
+Weapon     Raid   Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Determination   
+Bracelets  Raid   Direct Hit Rate  Determination   
+Ring       Tomes  Direct Hit Rate  Skill Speed     
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.48 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1288
+Crit: 2644
+Det : 1803
+Sks : 479
+Weapon     Raid   Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Determination   
+Bracelets  Raid   Direct Hit Rate  Determination   
+Ring       Tomes  Direct Hit Rate  Skill Speed     
+Ring       Raid   Direct Hit Rate  Critical Hit    
+---------- GCD: 2.47 ----------
+Food: Baked Eggplant
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1468
+Crit: 2567
+Det : 1654
+Sks : 544
+Weapon     Raid   Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Direct Hit Rate  Skill Speed     
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Direct Hit Rate  Skill Speed     
+Ring       Tomes  Direct Hit Rate  Skill Speed     
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.46 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1288
+Crit: 2644
+Det : 1695
+Sks : 598
+Weapon     Raid   Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Determination    Determination   
+Feet       Raid   Direct Hit Rate  Skill Speed     
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Direct Hit Rate  Skill Speed     
+Ring       Tomes  Direct Hit Rate  Skill Speed     
+Ring       Raid   Direct Hit Rate  Critical Hit    
+---------- GCD: 2.45 ----------
+Food: Baked Eggplant
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1468
+Crit: 2567
+Det : 1546
+Sks : 652
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Direct Hit Rate  Skill Speed     
+Ring       Tomes  Direct Hit Rate  Skill Speed     
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.44 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1288
+Crit: 2644
+Det : 1587
+Sks : 714
+Weapon     Raid   Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Determination   
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Direct Hit Rate  Skill Speed     
+Ring       Raid   Direct Hit Rate  Critical Hit    
+---------- GCD: 2.43 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1216
+Crit: 2644
+Det : 1587
+Sks : 786
+Weapon     Raid   Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Determination   
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.42 ----------
+Food: Baked Eggplant
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1288
+Crit: 2567
+Det : 1546
+Sks : 832
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.41 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1216
+Crit: 2644
+Det : 1479
+Sks : 894
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Direct Hit Rate  Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.4 ----------
+Food: Baked Eggplant
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1216
+Crit: 2530
+Det : 1546
+Sks : 941
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Direct Hit Rate  Direct Hit Rate 
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Critical Hit     Critical Hit    
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.39 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1108
+Crit: 2644
+Det : 1479
+Sks : 1002
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.38 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1036
+Crit: 2644
+Det : 1479
+Sks : 1074
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Skill Speed     
+Hands      Tomes  Critical Hit     Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.37 ----------
+Food: Baked Eggplant
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1000
+Crit: 2567
+Det : 1546
+Sks : 1120
+Weapon     Raid   Direct Hit Rate  Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.36 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 964
+Crit: 2644
+Det : 1443
+Sks : 1182
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Critical Hit     Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.35 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 964
+Crit: 2571
+Det : 1443
+Sks : 1255
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Critical Hit     Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Critical Hit     Critical Hit    
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.34 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 964
+Crit: 2532
+Det : 1443
+Sks : 1294
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Critical Hit     Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Tomes  Critical Hit     Critical Hit    
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.33 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 964
+Crit: 2462
+Det : 1443
+Sks : 1364
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Critical Hit    
+Necklace   Raid   Critical Hit     Critical Hit    
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.32 ----------
+Food: Dragonfruit Blend
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1062
+Crit: 2283
+Det : 1479
+Sks : 1409
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Critical Hit     Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Tomes  Critical Hit     Critical Hit    
+Earrings   Tomes  Critical Hit     Critical Hit    
+Necklace   Raid   Critical Hit     Critical Hit    
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.31 ----------
+Food: Baba Ghanoush
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 964
+Crit: 2350
+Det : 1443
+Sks : 1476
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Tomes  Critical Hit     Critical Hit    
+Earrings   Tomes  Critical Hit     Critical Hit    
+Necklace   Raid   Critical Hit     Critical Hit    
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.3 ----------
+Food: Honeyed Dragonfruit
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1882
+Crit: 953
+Det : 1872
+Sks : 1526
+Weapon     Raid   Direct Hit Rate  Skill Speed     
+Head       Raid   Determination    Determination   
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.29 ----------
+Food: Dragonfruit Blend
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1841
+Crit: 953
+Det : 1846
+Sks : 1593
+Weapon     Raid   Determination    Determination   
+Head       Raid   Direct Hit Rate  Determination   
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.28 ----------
+Food: Dragonfruit Blend
+Wd  : 132
+Str : 3378 | 3546
+Dh  : 1769
+Crit: 953
+Det : 1846
+Sks : 1665
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Determination    Determination   
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Determination    Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     

@@ -1,0 +1,540 @@
+---------- GCD: 2.5 | Mult:27.766 | Rank:3 ----------
+Food: Stuffed Highland Cabbage
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2832 | Mult: 1.102
+Crit: 3553 | Mult: 1.12715
+Det : 2043 | Mult: 1.067
+Sks : 380 | Mult: 1
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Direct Hit Rate  Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.49 | Mult:27.6971 | Rank:4 ----------
+Food: Stuffed Highland Cabbage
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2772 | Mult: 1.0995
+Crit: 3554 | Mult: 1.12715
+Det : 2043 | Mult: 1.067
+Sks : 440 | Mult: 0.999787
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Determination    Skill Speed     
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.48 | Mult:27.9023 | Rank:1 ----------
+Food: Stuffed Highland Cabbage
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2611 | Mult: 1.09275
+Crit: 3535 | Mult: 1.12632
+Det : 2144 | Mult: 1.071
+Sks : 519 | Mult: 1.01038
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Determination   
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Determination    Determination   
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Determination    Determination   
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.47 | Mult:27.8074 | Rank:2 ----------
+Food: Stuffed Highland Cabbage
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2593 | Mult: 1.092
+Crit: 3554 | Mult: 1.12715
+Det : 2043 | Mult: 1.067
+Sks : 620 | Mult: 1.01066
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Determination    Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Direct Hit Rate  Skill Speed     
+---------- GCD: 2.46 | Mult:27.6205 | Rank:9 ----------
+Food: Stuffed Highland Cabbage
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2473 | Mult: 1.087
+Crit: 3554 | Mult: 1.12715
+Det : 2043 | Mult: 1.067
+Sks : 740 | Mult: 1.00849
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Determination    Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.45 | Mult:27.6475 | Rank:6 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2473 | Mult: 1.087
+Crit: 3680 | Mult: 1.13392
+Det : 1815 | Mult: 1.058
+Sks : 814 | Mult: 1.01199
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.44 | Mult:27.6305 | Rank:8 ----------
+Food: Stuffed Highland Cabbage
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2293 | Mult: 1.0795
+Crit: 3554 | Mult: 1.12715
+Det : 2043 | Mult: 1.067
+Sks : 920 | Mult: 1.01586
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Determination    Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.43 | Mult:27.655 | Rank:5 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2209 | Mult: 1.076
+Crit: 3680 | Mult: 1.13392
+Det : 1894 | Mult: 1.061
+Sks : 1017 | Mult: 1.01972
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.42 | Mult:27.6346 | Rank:7 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2173 | Mult: 1.0745
+Crit: 3680 | Mult: 1.13392
+Det : 1815 | Mult: 1.058
+Sks : 1141 | Mult: 1.02328
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.41 | Mult:27.6107 | Rank:11 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2347 | Mult: 1.08175
+Crit: 3602 | Mult: 1.12968
+Det : 1635 | Mult: 1.051
+Sks : 1225 | Mult: 1.02615
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.4 | Mult:27.6146 | Rank:10 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1993 | Mult: 1.067
+Crit: 3680 | Mult: 1.13392
+Det : 1815 | Mult: 1.058
+Sks : 1321 | Mult: 1.02973
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.39 | Mult:27.5754 | Rank:13 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1993 | Mult: 1.067
+Crit: 3680 | Mult: 1.13392
+Det : 1695 | Mult: 1.053
+Sks : 1441 | Mult: 1.03315
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.38 | Mult:27.5752 | Rank:14 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2047 | Mult: 1.06925
+Crit: 3602 | Mult: 1.12968
+Det : 1635 | Mult: 1.051
+Sks : 1525 | Mult: 1.03681
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.37 | Mult:27.5798 | Rank:12 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1729 | Mult: 1.056
+Crit: 3680 | Mult: 1.13392
+Det : 1774 | Mult: 1.056
+Sks : 1626 | Mult: 1.04111
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.36 | Mult:27.5665 | Rank:15 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2029 | Mult: 1.0685
+Crit: 3515 | Mult: 1.12548
+Det : 1537 | Mult: 1.047
+Sks : 1728 | Mult: 1.04505
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Determination    Determination   
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.35 | Mult:27.5534 | Rank:16 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1807 | Mult: 1.05925
+Crit: 3534 | Mult: 1.12632
+Det : 1635 | Mult: 1.051
+Sks : 1834 | Mult: 1.04889
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.34 | Mult:27.527 | Rank:18 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1633 | Mult: 1.052
+Crit: 3552 | Mult: 1.12715
+Det : 1695 | Mult: 1.053
+Sks : 1930 | Mult: 1.05232
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.33 | Mult:27.5347 | Rank:17 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1627 | Mult: 1.05175
+Crit: 3515 | Mult: 1.12548
+Det : 1635 | Mult: 1.051
+Sks : 2032 | Mult: 1.05644
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.32 | Mult:27.5224 | Rank:19 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1567 | Mult: 1.04925
+Crit: 3474 | Mult: 1.12299
+Det : 1635 | Mult: 1.051
+Sks : 2134 | Mult: 1.06083
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.31 | Mult:27.5024 | Rank:20 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1382 | Mult: 1.04175
+Crit: 3371 | Mult: 1.11804
+Det : 1820 | Mult: 1.058
+Sks : 2236 | Mult: 1.06531
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Raid   Critical Hit     Critical Hit    
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.3 | Mult:27.3828 | Rank:21 ----------
+Food: Sausage and Sauerkraut
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1382 | Mult: 1.04175
+Crit: 3270 | Mult: 1.11317
+Det : 1820 | Mult: 1.058
+Sks : 2338 | Mult: 1.06533
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Critical Hit     Critical Hit    
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.29 | Mult:27.2615 | Rank:22 ----------
+Food: Mors
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1728 | Mult: 1.056
+Crit: 3006 | Mult: 1.10049
+Det : 1635 | Mult: 1.051
+Sks : 2441 | Mult: 1.0654
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.28 | Mult:27.0897 | Rank:23 ----------
+Food: Mors
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1727 | Mult: 1.056
+Crit: 2910 | Mult: 1.09586
+Det : 1635 | Mult: 1.051
+Sks : 2538 | Mult: 1.06316
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Critical Hit     Critical Hit    
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.27 | Mult:27.0709 | Rank:24 ----------
+Food: Mors
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2775 | Mult: 1.09975
+Crit: 1404 | Mult: 1.03367
+Det : 1991 | Mult: 1.065
+Sks : 2640 | Mult: 1.06731
+Weapon     Raid   Critical Hit     Determination   
+Head       Raid   Direct Hit Rate  Skill Speed     
+Body       Tomes  Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Skill Speed      Skill Speed     
+Waist      Tomes  Determination    Determination   
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Determination    Determination   
+Necklace   Tomes  Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.26 | Mult:27.0676 | Rank:25 ----------
+Food: Mors
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2156 | Mult: 1.074
+Crit: 2328 | Mult: 1.07014
+Det : 1585 | Mult: 1.049
+Sks : 2741 | Mult: 1.07163
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Critical Hit     Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Critical Hit     Critical Hit    
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.25 | Mult:27.0567 | Rank:26 ----------
+Food: Mors
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2470 | Mult: 1.087
+Crit: 1800 | Mult: 1.0486
+Det : 1691 | Mult: 1.053
+Sks : 2847 | Mult: 1.07603
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Direct Hit Rate  Skill Speed     
+Body       Tomes  Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Waist      Tomes  Critical Hit     Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Determination    Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.24 | Mult:26.9719 | Rank:27 ----------
+Food: Mors
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2571 | Mult: 1.09125
+Crit: 1404 | Mult: 1.03367
+Det : 1890 | Mult: 1.061
+Sks : 2944 | Mult: 1.07573
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Direct Hit Rate  Skill Speed     
+Body       Tomes  Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Waist      Tomes  Critical Hit     Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Determination    Determination   
+Necklace   Tomes  Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     

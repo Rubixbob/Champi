@@ -1,0 +1,399 @@
+---------- GCD: 2.5 ----------
+Food: Pumpkin Potage
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1271
+Crit: 2281
+Det : 1846
+Sks : 400
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Critical Hit    
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.49 ----------
+Food: Pumpkin Potage
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1235
+Crit: 2281
+Det : 1846
+Sks : 436
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Critical Hit    
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.48 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1307
+Crit: 2281
+Det : 1720
+Sks : 479
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.47 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1199
+Crit: 2319
+Det : 1737
+Sks : 537
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Determination   
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.46 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1199
+Crit: 2330
+Det : 1666
+Sks : 603
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Determination   
+Hands      Tomes  Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Critical Hit    
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.45 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1199
+Crit: 2319
+Det : 1629
+Sks : 651
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.44 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1199
+Crit: 2330
+Det : 1558
+Sks : 711
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Direct Hit Rate  Critical Hit    
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.43 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1127
+Crit: 2292
+Det : 1613
+Sks : 766
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Determination   
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Tomes  Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.42 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1019
+Crit: 2319
+Det : 1629
+Sks : 831
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.41 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1127
+Crit: 2281
+Det : 1504
+Sks : 886
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Direct Hit Rate 
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Direct Hit Rate  Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.4 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1019
+Crit: 2332
+Det : 1503
+Sks : 944
+Weapon     Ult    Direct Hit Rate  Determination    Determination   
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.39 ----------
+Food: Pumpkin Potage
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 947
+Crit: 2292
+Det : 1559
+Sks : 1000
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Skill Speed     
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Tomes  Critical Hit     Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.38 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 947
+Crit: 2281
+Det : 1504
+Sks : 1066
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Direct Hit Rate  Skill Speed     
+Hands      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.37 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 947
+Crit: 2332
+Det : 1395
+Sks : 1124
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Direct Hit Rate 
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Skill Speed      Skill Speed     
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.36 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 947
+Crit: 2330
+Det : 1342
+Sks : 1179
+Weapon     Ult    Direct Hit Rate  Direct Hit Rate  Determination   
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.35 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 767
+Crit: 2292
+Det : 1505
+Sks : 1234
+Weapon     Ult    Skill Speed      Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Determination    Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Determination   
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.34 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 965
+Crit: 2240
+Det : 1301
+Sks : 1292
+Weapon     Ult    Direct Hit Rate  Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Determination    Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Raid   Critical Hit     Critical Hit    
+Earrings   Tomes  Critical Hit     Determination   
+Necklace   Raid   Determination    Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Critical Hit    
+---------- GCD: 2.33 ----------
+Food: Pumpkin Ratatouille
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 839
+Crit: 2258
+Det : 1342
+Sks : 1359
+Weapon     Ult    Skill Speed      Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Critical Hit    
+Necklace   Raid   Determination    Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Critical Hit     Skill Speed     
+---------- GCD: 2.32 ----------
+Food: Beef Stroganoff
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1616
+Crit: 1087
+Det : 1681
+Sks : 1414
+Weapon     Ult    Direct Hit Rate  Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Determination    Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Tomes  Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.31 ----------
+Food: Beef Stroganoff
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1580
+Crit: 1125
+Det : 1626
+Sks : 1467
+Weapon     Ult    Direct Hit Rate  Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Raid   Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Determination    Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Determination   
+Necklace   Raid   Determination    Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.3 ----------
+Food: Beef Stroganoff
+Wd  : 120
+Str : 2574 | 2702
+Dh  : 1508
+Crit: 1174
+Det : 1572
+Sks : 1544
+Weapon     Ult    Skill Speed      Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Tomes  Determination    Determination   
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Determination    Skill Speed     
+Earrings   Tomes  Determination    Determination   
+Necklace   Raid   Determination    Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     

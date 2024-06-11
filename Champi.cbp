@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Champi" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="DRG Sim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+					<Add library="winmm" />
+					<Add library="gdi32" />
+					<Add library="opengl32" />
+					<Add library="openal32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-DSFML_DYNAMIC" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SFML-2.3.2-gcc-4.7.1/include" />
+		</Compiler>
+		<Linker>
+			<Add library="user32" />
+			<Add library="kernel32" />
+			<Add library="comctl32" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SFML-2.3.2-gcc-4.7.1/lib" />
+		</Linker>
+		<Unit filename="include/BiSFinder.h" />
+		<Unit filename="include/CommonStructs.h" />
+		<Unit filename="include/FullSet.h" />
+		<Unit filename="include/GearPiece.h" />
+		<Unit filename="include/MeldFinder.h" />
+		<Unit filename="resources/resources.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="src/BiSFinder.cpp" />
+		<Unit filename="src/FullSet.cpp" />
+		<Unit filename="src/GearPiece.cpp" />
+		<Unit filename="src/MeldFinder.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

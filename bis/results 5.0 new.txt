@@ -1,0 +1,724 @@
+---------- GCD: 2.5 | Mult:27.7446 | Rank:3 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2533 | Mult: 1.0895
+Crit: 3605 | Mult: 1.12968
+Det : 2270 | Mult: 1.076
+Sks : 380 | Mult: 1
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Determination   
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Determination    Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Determination    Determination   
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.49 | Mult:27.681 | Rank:4 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2772 | Mult: 1.0995
+Crit: 3605 | Mult: 1.12968
+Det : 1970 | Mult: 1.064
+Sks : 440 | Mult: 0.999787
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.48 | Mult:27.8753 | Rank:1 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2910 | Mult: 1.10525
+Crit: 3467 | Mult: 1.12299
+Det : 1891 | Mult: 1.061
+Sks : 519 | Mult: 1.01038
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Direct Hit Rate  Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.47 | Mult:27.7913 | Rank:2 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2593 | Mult: 1.092
+Crit: 3605 | Mult: 1.12968
+Det : 1970 | Mult: 1.064
+Sks : 620 | Mult: 1.01066
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Direct Hit Rate  Skill Speed     
+---------- GCD: 2.46 | Mult:27.6091 | Rank:9 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2730 | Mult: 1.09775
+Crit: 3449 | Mult: 1.12216
+Det : 1891 | Mult: 1.061
+Sks : 717 | Mult: 1.00831
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.45 | Mult:27.6267 | Rank:6 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2473 | Mult: 1.087
+Crit: 3667 | Mult: 1.13307
+Det : 1815 | Mult: 1.058
+Sks : 814 | Mult: 1.01199
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.44 | Mult:27.6145 | Rank:7 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2293 | Mult: 1.0795
+Crit: 3605 | Mult: 1.12968
+Det : 1970 | Mult: 1.064
+Sks : 920 | Mult: 1.01586
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.43 | Mult:27.6342 | Rank:5 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2209 | Mult: 1.076
+Crit: 3667 | Mult: 1.13307
+Det : 1894 | Mult: 1.061
+Sks : 1017 | Mult: 1.01972
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.42 | Mult:27.6138 | Rank:8 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2173 | Mult: 1.0745
+Crit: 3667 | Mult: 1.13307
+Det : 1815 | Mult: 1.058
+Sks : 1133 | Mult: 1.02328
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.41 | Mult:27.5711 | Rank:11 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1993 | Mult: 1.067
+Crit: 3605 | Mult: 1.12968
+Det : 1970 | Mult: 1.064
+Sks : 1220 | Mult: 1.02615
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Raid   Determination    Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.4 | Mult:27.5757 | Rank:10 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2053 | Mult: 1.0695
+Crit: 3599 | Mult: 1.12968
+Det : 1815 | Mult: 1.058
+Sks : 1322 | Mult: 1.02973
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Determination   
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.39 | Mult:27.5547 | Rank:12 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1993 | Mult: 1.067
+Crit: 3667 | Mult: 1.13307
+Det : 1695 | Mult: 1.053
+Sks : 1433 | Mult: 1.03315
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.38 | Mult:27.537 | Rank:14 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2107 | Mult: 1.07175
+Crit: 3521 | Mult: 1.12548
+Det : 1635 | Mult: 1.051
+Sks : 1526 | Mult: 1.03681
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.37 | Mult:27.5417 | Rank:13 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1789 | Mult: 1.0585
+Crit: 3599 | Mult: 1.12968
+Det : 1774 | Mult: 1.056
+Sks : 1627 | Mult: 1.04111
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Direct Hit Rate  Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.36 | Mult:27.5365 | Rank:15 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1831 | Mult: 1.06025
+Crit: 3518 | Mult: 1.12548
+Det : 1711 | Mult: 1.054
+Sks : 1728 | Mult: 1.04505
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.35 | Mult:27.5165 | Rank:16 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1867 | Mult: 1.06175
+Crit: 3452 | Mult: 1.12216
+Det : 1635 | Mult: 1.051
+Sks : 1835 | Mult: 1.04889
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.34 | Mult:27.4926 | Rank:17 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1687 | Mult: 1.05425
+Crit: 3521 | Mult: 1.12548
+Det : 1635 | Mult: 1.051
+Sks : 1946 | Mult: 1.05232
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.33 | Mult:27.485 | Rank:19 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1369 | Mult: 1.041
+Crit: 3599 | Mult: 1.12968
+Det : 1774 | Mult: 1.056
+Sks : 2047 | Mult: 1.05644
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Raid   Skill Speed      Skill Speed     
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.32 | Mult:27.4867 | Rank:18 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1627 | Mult: 1.05175
+Crit: 3383 | Mult: 1.11886
+Det : 1635 | Mult: 1.051
+Sks : 2144 | Mult: 1.06083
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Direct Hit Rate  Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Critical Hit     Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.31 | Mult:27.4823 | Rank:20 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1626 | Mult: 1.05175
+Crit: 3287 | Mult: 1.11398
+Det : 1635 | Mult: 1.051
+Sks : 2241 | Mult: 1.06531
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Critical Hit    
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Critical Hit     Critical Hit    
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.3 | Mult:27.3638 | Rank:21 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1626 | Mult: 1.05175
+Crit: 3185 | Mult: 1.10916
+Det : 1635 | Mult: 1.051
+Sks : 2343 | Mult: 1.06533
+Weapon     Raid   Critical Hit     Critical Hit    
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Critical Hit     Critical Hit    
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.29 | Mult:27.2419 | Rank:22 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1567 | Mult: 1.04925
+Crit: 3143 | Mult: 1.10677
+Det : 1635 | Mult: 1.051
+Sks : 2444 | Mult: 1.0654
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.28 | Mult:27.0757 | Rank:23 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1626 | Mult: 1.05175
+Crit: 2987 | Mult: 1.09971
+Det : 1635 | Mult: 1.051
+Sks : 2541 | Mult: 1.06316
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Tomes  Critical Hit     Critical Hit    
+Bracelets  Raid   Critical Hit     Critical Hit    
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.27 | Mult:27.057 | Rank:24 ----------
+Food: King Salmon Meuniere
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1719 | Mult: 1.05575
+Crit: 2790 | Mult: 1.09053
+Det : 1635 | Mult: 1.051
+Sks : 2643 | Mult: 1.06731
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Skill Speed     
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Skill Speed     
+Necklace   Tomes  Critical Hit     Critical Hit    
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.26 | Mult:27.0444 | Rank:25 ----------
+Food: King Salmon Meuniere
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2647 | Mult: 1.09425
+Crit: 1404 | Mult: 1.03367
+Det : 1991 | Mult: 1.065
+Sks : 2747 | Mult: 1.07163
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Direct Hit Rate  Skill Speed     
+Body       Tomes  Direct Hit Rate  Critical Hit    
+Hands      Raid   Skill Speed      Skill Speed     
+Waist      Tomes  Determination    Determination   
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Direct Hit Rate  Determination   
+Earrings   Raid   Determination    Determination   
+Necklace   Tomes  Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.25 | Mult:27.0399 | Rank:26 ----------
+Food: King Salmon Meuniere
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2642 | Mult: 1.09425
+Crit: 1602 | Mult: 1.041
+Det : 1691 | Mult: 1.053
+Sks : 2852 | Mult: 1.07603
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Direct Hit Rate  Skill Speed     
+Body       Tomes  Direct Hit Rate  Direct Hit Rate 
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Waist      Tomes  Critical Hit     Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Determination    Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Direct Hit Rate  Skill Speed     
+---------- GCD: 2.24 | Mult:26.9021 | Rank:27 ----------
+Food: King Salmon Meuniere
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2503 | Mult: 1.08825
+Crit: 1404 | Mult: 1.03367
+Det : 1890 | Mult: 1.061
+Sks : 2990 | Mult: 1.07591
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Direct Hit Rate  Skill Speed     
+Body       Tomes  Direct Hit Rate  Critical Hit    
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Waist      Tomes  Determination    Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Raid   Direct Hit Rate  Direct Hit Rate 
+Earrings   Raid   Determination    Skill Speed     
+Necklace   Tomes  Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 0 | Mult:0 | Rank:28 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:29 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:30 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:31 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:32 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:33 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:34 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:35 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:36 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:37 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:38 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:39 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:40 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:41 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:42 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:43 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:44 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:45 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:46 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:47 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:48 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:49 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:50 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0

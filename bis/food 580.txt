@@ -1,0 +1,4 @@
+Archon Burger	0.1	90	0	0	0.1	54	0	0
+Beef Stroganoff	0.1	54	0	0	0	0	0.1	90
+Pumpkin Potage	0	0	0.1	54	0.1	90	0	0
+Pumpkin Ratatouille	0	0	0.1	90	0	0	0.1	54

@@ -1,0 +1,424 @@
+---------- GCD: 2.5 | Mult:27.8082 | Rank:1 ----------
+Food: Robe Lettuce Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2592 | Mult: 1.092
+Crit: 3605 | Mult: 1.12968
+Det : 2270 | Mult: 1.076
+Sks : 380 | Mult: 1
+Weapon     Raid   Critical Hit     Critical Hit     Determination   
+Head       Tomes  Determination    Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Determination   
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Determination    Determination   
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate 
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 0 | Mult:0 | Rank:2 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:3 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:4 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:5 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 2.45 | Mult:27.6903 | Rank:1 ----------
+Food: Popoto Salad
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2532 | Mult: 1.0895
+Crit: 3667 | Mult: 1.13307
+Det : 1813 | Mult: 1.058
+Sks : 814 | Mult: 1.01199
+Weapon     Raid   Critical Hit     Critical Hit     Skill Speed     
+Head       Tomes  Direct Hit Rate  Direct Hit Rate 
+Body       Raid   Direct Hit Rate  Direct Hit Rate 
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Raid   Direct Hit Rate  Direct Hit Rate 
+Legs       Raid   Critical Hit     Critical Hit    
+Feet       Tomes  Direct Hit Rate  Skill Speed     
+Earrings   Tomes  Determination    Direct Hit Rate 
+Necklace   Raid   Direct Hit Rate  Skill Speed     
+Bracelets  Tomes  Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Determination    Direct Hit Rate 
+---------- GCD: 0 | Mult:0 | Rank:7 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:8 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:9 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:10 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:11 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:12 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:13 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:14 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:15 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:16 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:17 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:18 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:19 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:20 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:21 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:22 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:23 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:24 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:25 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:26 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:27 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:28 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:29 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:30 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:31 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:32 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:33 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:34 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:35 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:36 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:37 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:38 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:39 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:40 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:41 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:42 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:43 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:44 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:45 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:46 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:47 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:48 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:49 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0
+---------- GCD: 0 | Mult:0 | Rank:50 ----------
+Food: 
+Wd  : 0
+Str : 0 | 0 | Mult: 0
+Dh  : 0 | Mult: 0
+Crit: 0 | Mult: 0
+Det : 0 | Mult: 0
+Sks : 0 | Mult: 0

@@ -1,0 +1,4 @@
+Archon Burger	0.1	90	0	0	0.1	54	0	0
+Pumpkin Potage	0	0	0.1	54	0.1	90	0	0
+Sykon Cookie	0.1	54	0	0	0	0	0.1	90
+Thavnairian Chai	0	0	0.1	90	0	0	0.1	54

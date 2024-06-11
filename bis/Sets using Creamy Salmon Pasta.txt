@@ -1,0 +1,475 @@
+---------- GCD: 2.5 | Mult:27.7266 | Rank:1 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2988 | Mult: 1.1085
+Crit: 3453 | Mult: 1.12216
+Det : 1968 | Mult: 1.064
+Sks : 380 | Mult: 1
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Direct Hit Rate  Direct Hit Rate
+Body       Raid   Direct Hit Rate  Direct Hit Rate
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Direct Hit Rate  Direct Hit Rate
+Legs       Raid   Critical Hit     Direct Hit Rate
+Feet       Tomes  Direct Hit Rate  Determination
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate
+Necklace   Raid   Direct Hit Rate  Determination
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate
+Ring       Tomes  Critical Hit     Determination
+Ring       Raid   Direct Hit Rate  Direct Hit Rate
+---------- GCD: 2.49 | Mult:27.6638 | Rank:2 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2928 | Mult: 1.106
+Crit: 3453 | Mult: 1.12216
+Det : 1968 | Mult: 1.064
+Sks : 440 | Mult: 0.999994
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Direct Hit Rate  Direct Hit Rate
+Body       Raid   Direct Hit Rate  Direct Hit Rate
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Direct Hit Rate  Direct Hit Rate
+Legs       Raid   Critical Hit     Direct Hit Rate
+Feet       Tomes  Direct Hit Rate  Determination
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate
+Necklace   Raid   Direct Hit Rate  Determination
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.48 | Mult:27.6173 | Rank:3 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2946 | Mult: 1.10675
+Crit: 3435 | Mult: 1.12133
+Det : 1889 | Mult: 1.061
+Sks : 519 | Mult: 1.00137
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Direct Hit Rate  Direct Hit Rate
+Body       Raid   Direct Hit Rate  Direct Hit Rate
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Tomes  Critical Hit     Critical Hit
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Direct Hit Rate  Determination
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate
+Necklace   Raid   Direct Hit Rate  Determination
+Bracelets  Tomes  Direct Hit Rate  Direct Hit Rate
+Ring       Tomes  Critical Hit     Determination
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.47 | Mult:27.5545 | Rank:5 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2766 | Mult: 1.09925
+Crit: 3435 | Mult: 1.12133
+Det : 1949 | Mult: 1.063
+Sks : 639 | Mult: 1.00248
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Direct Hit Rate  Direct Hit Rate
+Body       Raid   Direct Hit Rate  Determination
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Direct Hit Rate  Direct Hit Rate
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Direct Hit Rate  Determination
+Earrings   Raid   Critical Hit     Critical Hit
+Necklace   Raid   Direct Hit Rate  Determination
+Bracelets  Tomes  Determination    Skill Speed
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.46 | Mult:27.4929 | Rank:6 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2549 | Mult: 1.09025
+Crit: 3435 | Mult: 1.12133
+Det : 2047 | Mult: 1.067
+Sks : 758 | Mult: 0.999582
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Direct Hit Rate  Direct Hit Rate
+Body       Raid   Direct Hit Rate  Direct Hit Rate
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Direct Hit Rate  Direct Hit Rate
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Direct Hit Rate  Determination
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.45 | Mult:27.4391 | Rank:9 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2978 | Mult: 1.10825
+Crit: 3075 | Mult: 1.10362
+Det : 1918 | Mult: 1.062
+Sks : 818 | Mult: 1.00305
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Direct Hit Rate  Direct Hit Rate
+Body       Raid   Direct Hit Rate  Direct Hit Rate
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Direct Hit Rate  Direct Hit Rate
+Legs       Tomes  Critical Hit     Critical Hit
+Feet       Tomes  Direct Hit Rate  Skill Speed
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Determination    Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.44 | Mult:27.4391 | Rank:10 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2858 | Mult: 1.10325
+Crit: 3075 | Mult: 1.10362
+Det : 1918 | Mult: 1.062
+Sks : 938 | Mult: 1.00702
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Direct Hit Rate  Skill Speed
+Body       Raid   Direct Hit Rate  Direct Hit Rate
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Direct Hit Rate  Direct Hit Rate
+Legs       Tomes  Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Determination    Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.43 | Mult:27.4929 | Rank:7 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2249 | Mult: 1.07775
+Crit: 3435 | Mult: 1.12133
+Det : 2047 | Mult: 1.067
+Sks : 1058 | Mult: 1.01121
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Raid   Skill Speed      Skill Speed
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Direct Hit Rate  Direct Hit Rate
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Direct Hit Rate  Skill Speed
+Earrings   Tomes  Determination    Direct Hit Rate
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.42 | Mult:27.4391 | Rank:11 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2678 | Mult: 1.09575
+Crit: 3075 | Mult: 1.10362
+Det : 1918 | Mult: 1.062
+Sks : 1118 | Mult: 1.01516
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Raid   Skill Speed      Skill Speed
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Direct Hit Rate  Direct Hit Rate
+Legs       Tomes  Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Determination    Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.41 | Mult:27.4929 | Rank:8 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2129 | Mult: 1.07275
+Crit: 3375 | Mult: 1.11804
+Det : 2047 | Mult: 1.067
+Sks : 1238 | Mult: 1.01816
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Raid   Skill Speed      Skill Speed
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Skill Speed      Skill Speed
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Direct Hit Rate  Direct Hit Rate
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Determination    Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.4 | Mult:27.5564 | Rank:4 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2069 | Mult: 1.07025
+Crit: 3435 | Mult: 1.12133
+Det : 1927 | Mult: 1.062
+Sks : 1358 | Mult: 1.02253
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Raid   Skill Speed      Skill Speed
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Skill Speed      Skill Speed
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Skill Speed      Skill Speed
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Direct Hit Rate  Direct Hit Rate
+---------- GCD: 2.39 | Mult:27.404 | Rank:12 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2142 | Mult: 1.07325
+Crit: 3435 | Mult: 1.12133
+Det : 1788 | Mult: 1.057
+Sks : 1424 | Mult: 1.026
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Raid   Skill Speed      Skill Speed
+Hands      Tomes  Critical Hit     Critical Hit
+Waist      Raid   Skill Speed      Skill Speed
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Raid   Critical Hit     Critical Hit
+Necklace   Raid   Direct Hit Rate  Skill Speed
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Determination    Direct Hit Rate
+---------- GCD: 2.38 | Mult:27.3483 | Rank:14 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1805 | Mult: 1.05925
+Crit: 3435 | Mult: 1.12133
+Det : 2006 | Mult: 1.065
+Sks : 1543 | Mult: 1.02991
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Raid   Skill Speed      Skill Speed
+Hands      Tomes  Critical Hit     Critical Hit
+Waist      Raid   Skill Speed      Skill Speed
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Skill Speed      Skill Speed
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Direct Hit Rate  Direct Hit Rate
+---------- GCD: 2.37 | Mult:27.3286 | Rank:19 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2304 | Mult: 1.08
+Crit: 3348 | Mult: 1.11641
+Det : 1510 | Mult: 1.046
+Sks : 1627 | Mult: 1.03419
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Tomes  Critical Hit     Critical Hit
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Tomes  Critical Hit     Critical Hit
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Raid   Critical Hit     Critical Hit
+Necklace   Raid   Skill Speed      Skill Speed
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Direct Hit Rate  Direct Hit Rate
+---------- GCD: 2.36 | Mult:27.3405 | Rank:15 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1709 | Mult: 1.05525
+Crit: 3426 | Mult: 1.12051
+Det : 1927 | Mult: 1.062
+Sks : 1727 | Mult: 1.03849
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Tomes  Critical Hit     Critical Hit
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Skill Speed      Skill Speed
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Skill Speed      Skill Speed
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Skill Speed
+Ring       Raid   Direct Hit Rate  Skill Speed
+---------- GCD: 2.35 | Mult:27.3534 | Rank:13 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1788 | Mult: 1.0585
+Crit: 3384 | Mult: 1.11886
+Det : 1788 | Mult: 1.057
+Sks : 1829 | Mult: 1.04275
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Tomes  Critical Hit     Critical Hit
+Hands      Raid   Critical Hit     Critical Hit
+Waist      Raid   Skill Speed      Skill Speed
+Legs       Raid   Critical Hit     Skill Speed
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Skill Speed      Skill Speed
+Necklace   Raid   Skill Speed      Skill Speed
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Skill Speed      Skill Speed
+---------- GCD: 2.34 | Mult:27.3358 | Rank:18 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1920 | Mult: 1.064
+Crit: 3288 | Mult: 1.11398
+Det : 1649 | Mult: 1.051
+Sks : 1932 | Mult: 1.04697
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Tomes  Critical Hit     Critical Hit
+Hands      Tomes  Critical Hit     Critical Hit
+Waist      Tomes  Critical Hit     Critical Hit
+Legs       Raid   Critical Hit     Skill Speed
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Raid   Critical Hit     Critical Hit
+Necklace   Raid   Skill Speed      Skill Speed
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Determination
+Ring       Raid   Skill Speed      Skill Speed
+---------- GCD: 2.33 | Mult:27.3397 | Rank:16 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1722 | Mult: 1.05575
+Crit: 3306 | Mult: 1.11479
+Det : 1728 | Mult: 1.054
+Sks : 2033 | Mult: 1.05137
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Tomes  Skill Speed      Skill Speed
+Body       Tomes  Critical Hit     Critical Hit
+Hands      Tomes  Critical Hit     Critical Hit
+Waist      Raid   Skill Speed      Skill Speed
+Legs       Raid   Critical Hit     Critical Hit
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Raid   Skill Speed      Critical Hit
+Necklace   Raid   Skill Speed      Skill Speed
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Skill Speed      Skill Speed
+---------- GCD: 2.32 | Mult:27.3397 | Rank:17 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1722 | Mult: 1.05575
+Crit: 3126 | Mult: 1.10598
+Det : 1788 | Mult: 1.057
+Sks : 2153 | Mult: 1.05579
+Weapon     Raid   Skill Speed      Skill Speed
+Head       Tomes  Skill Speed      Skill Speed
+Body       Tomes  Critical Hit     Critical Hit
+Hands      Tomes  Skill Speed      Critical Hit
+Waist      Raid   Skill Speed      Skill Speed
+Legs       Raid   Skill Speed      Skill Speed
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Raid   Critical Hit     Critical Hit
+Necklace   Raid   Skill Speed      Skill Speed
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Critical Hit     Determination
+Ring       Raid   Skill Speed      Skill Speed
+---------- GCD: 2.31 | Mult:27.315 | Rank:20 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1920 | Mult: 1.064
+Crit: 2964 | Mult: 1.09816
+Det : 1668 | Mult: 1.052
+Sks : 2237 | Mult: 1.06025
+Weapon     Raid   Critical Hit     Critical Hit
+Head       Raid   Critical Hit     Critical Hit
+Body       Tomes  Critical Hit     Critical Hit
+Hands      Tomes  Critical Hit     Critical Hit
+Waist      Tomes  Critical Hit     Critical Hit
+Legs       Raid   Skill Speed      Skill Speed
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Raid   Skill Speed      Critical Hit
+Necklace   Raid   Skill Speed      Skill Speed
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Skill Speed      Skill Speed
+---------- GCD: 2.3 | Mult:27.1991 | Rank:25 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2192 | Mult: 1.0755
+Crit: 2184 | Mult: 1.06389
+Det : 1996 | Mult: 1.065
+Sks : 2356 | Mult: 1.06046
+Weapon     Raid   Skill Speed      Skill Speed
+Head       Raid   Skill Speed      Critical Hit
+Body       Tomes  Direct Hit Rate  Direct Hit Rate
+Hands      Tomes  Skill Speed      Critical Hit
+Waist      Tomes  Skill Speed      Determination
+Legs       Tomes  Skill Speed      Skill Speed
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Skill Speed      Skill Speed
+Necklace   Tomes  Direct Hit Rate  Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Determination    Skill Speed
+Ring       Raid   Determination    Determination
+---------- GCD: 2.29 | Mult:27.2846 | Rank:22 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2072 | Mult: 1.0705
+Crit: 2364 | Mult: 1.07155
+Det : 1877 | Mult: 1.06
+Sks : 2476 | Mult: 1.06108
+Weapon     Raid   Skill Speed      Skill Speed
+Head       Raid   Skill Speed      Critical Hit
+Body       Tomes  Critical Hit     Determination
+Hands      Tomes  Skill Speed      Critical Hit
+Waist      Tomes  Skill Speed      Critical Hit
+Legs       Tomes  Skill Speed      Skill Speed
+Feet       Tomes  Skill Speed      Skill Speed
+Earrings   Tomes  Skill Speed      Skill Speed
+Necklace   Tomes  Critical Hit     Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Direct Hit Rate  Skill Speed
+---------- GCD: 2.28 | Mult:27.2887 | Rank:21 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1565 | Mult: 1.04925
+Crit: 2424 | Mult: 1.07368
+Det : 2232 | Mult: 1.074
+Sks : 2555 | Mult: 1.05878
+Weapon     Raid   Skill Speed      Skill Speed
+Head       Tomes  Skill Speed      Skill Speed
+Body       Tomes  Direct Hit Rate  Determination
+Hands      Tomes  Skill Speed      Critical Hit
+Waist      Tomes  Skill Speed      Determination
+Legs       Raid   Skill Speed      Skill Speed
+Feet       Raid   Determination    Direct Hit Rate
+Earrings   Tomes  Skill Speed      Skill Speed
+Necklace   Tomes  Direct Hit Rate  Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Skill Speed      Skill Speed
+---------- GCD: 2.27 | Mult:27.2542 | Rank:23 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 1565 | Mult: 1.04925
+Crit: 2220 | Mult: 1.06527
+Det : 2311 | Mult: 1.077
+Sks : 2680 | Mult: 1.06311
+Weapon     Raid   Skill Speed      Skill Speed
+Head       Raid   Skill Speed      Critical Hit
+Body       Tomes  Direct Hit Rate  Determination
+Hands      Tomes  Skill Speed      Critical Hit
+Waist      Tomes  Skill Speed      Determination
+Legs       Raid   Skill Speed      Skill Speed
+Feet       Raid   Determination    Direct Hit Rate
+Earrings   Tomes  Skill Speed      Skill Speed
+Necklace   Tomes  Direct Hit Rate  Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Skill Speed      Skill Speed
+---------- GCD: 2.26 | Mult:27.2531 | Rank:24 ----------
+Wd  : 122
+Str : 4240 | 4452 | Mult: 20.95
+Dh  : 2085 | Mult: 1.071
+Crit: 1842 | Mult: 1.04989
+Det : 2103 | Mult: 1.069
+Sks : 2759 | Mult: 1.06738
+Weapon     Raid   Skill Speed      Skill Speed
+Head       Raid   Skill Speed      Critical Hit
+Body       Tomes  Critical Hit     Determination
+Hands      Tomes  Skill Speed      Critical Hit
+Waist      Tomes  Skill Speed      Determination
+Legs       Tomes  Skill Speed      Skill Speed
+Feet       Raid   Determination    Critical Hit
+Earrings   Raid   Skill Speed      Determination
+Necklace   Tomes  Direct Hit Rate  Critical Hit
+Bracelets  Tomes  Skill Speed      Skill Speed
+Ring       Tomes  Skill Speed      Skill Speed
+Ring       Raid   Skill Speed      Skill Speed

@@ -1,0 +1,520 @@
+---------- GCD: 2.5 ----------
+Food: Smoked Chicken
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2919
+Crit: 4069
+Det : 2244
+Sks : 380
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Raid   Critical Hit     Critical Hit    
+Legs       Raid   Direct Hit Rate  Determination   
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Determination   
+Necklace   Raid   Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.49 ----------
+Food: Smoked Chicken
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2859
+Crit: 4069
+Det : 2244
+Sks : 440
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Raid   Critical Hit     Critical Hit    
+Legs       Raid   Determination    Determination   
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Determination   
+Necklace   Raid   Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.48 ----------
+Food: Smoked Chicken
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2739
+Crit: 4069
+Det : 2244
+Sks : 560
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Raid   Critical Hit     Critical Hit    
+Legs       Raid   Determination    Determination   
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Determination   
+Necklace   Raid   Direct Hit Rate  Determination   
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Direct Hit Rate  Skill Speed     
+---------- GCD: 2.47 ----------
+Food: Smoked Chicken
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2979
+Crit: 4069
+Det : 1941
+Sks : 620
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Raid   Critical Hit     Critical Hit    
+Legs       Raid   Direct Hit Rate  Direct Hit Rate 
+Feet       Tomes  Direct Hit Rate  Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Direct Hit Rate  Direct Hit Rate 
+---------- GCD: 2.46 ----------
+Food: Smoked Chicken
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2702
+Crit: 4167
+Det : 2017
+Sks : 726
+Weapon     Raid   Direct Hit Rate  Determination   
+Head       Raid   Determination    Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Tomes  Critical Hit     Determination   
+Legs       Raid   Determination    Determination   
+Feet       Tomes  Determination    Determination   
+Earrings   Tomes  Critical Hit     Determination   
+Necklace   Raid   Determination    Skill Speed     
+Bracelets  Raid   Critical Hit     Determination   
+Ring       Tomes  Critical Hit     Determination   
+Ring       Raid   Determination    Skill Speed     
+---------- GCD: 2.45 ----------
+Food: Smoked Chicken
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2633
+Crit: 4167
+Det : 1965
+Sks : 846
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Determination    Determination   
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Direct Hit Rate  Skill Speed     
+---------- GCD: 2.44 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 3062
+Crit: 4238
+Det : 1358
+Sks : 930
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Determination    Determination   
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Determination   
+Necklace   Raid   Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.43 ----------
+Food: Smoked Chicken
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2453
+Crit: 4167
+Det : 1965
+Sks : 1026
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Determination    Determination   
+Feet       Tomes  Direct Hit Rate  Determination   
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.42 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 3062
+Crit: 4238
+Det : 1178
+Sks : 1128
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Direct Hit Rate  Determination   
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Direct Hit Rate  Direct Hit Rate 
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.41 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2942
+Crit: 4238
+Det : 1178
+Sks : 1254
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Direct Hit Rate  Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Determination   
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Direct Hit Rate  Determination   
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.4 ----------
+Food: Smoked Chicken
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2153
+Crit: 4167
+Det : 1965
+Sks : 1326
+Weapon     Raid   Determination    Determination   
+Head       Raid   Determination    Determination   
+Body       Tomes  Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.39 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2762
+Crit: 4238
+Det : 1178
+Sks : 1434
+Weapon     Raid   Direct Hit Rate  Direct Hit Rate 
+Head       Raid   Determination    Determination   
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.38 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2642
+Crit: 4238
+Det : 1178
+Sks : 1554
+Weapon     Raid   Determination    Determination   
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.37 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2642
+Crit: 4238
+Det : 1058
+Sks : 1674
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Critical Hit     Skill Speed     
+Waist      Tomes  Critical Hit     Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.36 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2642
+Crit: 4178
+Det : 1058
+Sks : 1734
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Waist      Tomes  Critical Hit     Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Critical Hit     Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.35 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2416
+Crit: 4080
+Det : 1284
+Sks : 1832
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Waist      Tomes  Critical Hit     Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Critical Hit     Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Critical Hit     Critical Hit    
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.34 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2310
+Crit: 3982
+Det : 1382
+Sks : 1938
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Tomes  Skill Speed      Skill Speed     
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Direct Hit Rate  Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Critical Hit     Critical Hit    
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.33 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2401
+Crit: 3967
+Det : 1209
+Sks : 2035
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.32 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2175
+Crit: 3929
+Det : 1367
+Sks : 2141
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Critical Hit     Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.31 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 1949
+Crit: 3831
+Det : 1593
+Sks : 2239
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Critical Hit     Critical Hit    
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Critical Hit     Critical Hit    
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.3 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 1889
+Crit: 3651
+Det : 1713
+Sks : 2359
+Weapon     Raid   Determination    Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Critical Hit     Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.29 ----------
+Food: Mist Spinach Quiche
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2298
+Crit: 3367
+Det : 1510
+Sks : 2437
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Critical Hit     Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Tomes  Skill Speed      Skill Speed     
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.28 ----------
+Food: Mist Spinach Quiche
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 2012
+Crit: 3269
+Det : 1788
+Sks : 2543
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Raid   Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Determination    Determination   
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Critical Hit     Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Raid   Skill Speed      Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.27 ----------
+Food: Mist Spinach Quiche
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 1906
+Crit: 3171
+Det : 1894
+Sks : 2641
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Direct Hit Rate  Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.26 ----------
+Food: Chicken Fettuccine
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 1527
+Crit: 3109
+Det : 2195
+Sks : 2751
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Critical Hit     Critical Hit    
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Critical Hit     Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
+---------- GCD: 2.25 ----------
+Food: Mist Spinach Quiche
+Wd  : 134
+Str : 5607 | 5887
+Dh  : 1695
+Crit: 2810
+Det : 2195
+Sks : 2852
+Weapon     Raid   Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Raid   Skill Speed      Skill Speed     
+Hands      Raid   Direct Hit Rate  Critical Hit    
+Waist      Tomes  Direct Hit Rate  Critical Hit    
+Legs       Raid   Skill Speed      Skill Speed     
+Feet       Raid   Skill Speed      Skill Speed     
+Earrings   Raid   Critical Hit     Critical Hit    
+Necklace   Raid   Skill Speed      Skill Speed     
+Bracelets  Tomes  Critical Hit     Skill Speed     
+Ring       Tomes  Skill Speed      Skill Speed     
+Ring       Raid   Skill Speed      Skill Speed     
