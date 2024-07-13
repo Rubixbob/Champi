@@ -4,14 +4,14 @@
 //#define ult_weapon // Use meldSlots = 3 in GearPiece
 //#define MIN_SKS 2000
 //#define MIN_SKS 715
-#define MIN_SKS 400
+#define MIN_SKS 420
 //#define MIN_SKS 2278
 //#define MAX_SKS 440
 //#define MAX_SKS 850
 #define MAX_SKS 5000
-#define ILVL 660
-#define MAT 36
-#define MAT5 12
+#define ILVL 710
+#define MAT 54
+#define MAT5 18
 #define MAT7 20
 
 #define MAX_THREADS 11
@@ -53,11 +53,11 @@ unsigned int m_counter;
 int max_counter;
 sf::Clock m_clock;
 
-double dirMult[5364];
-double critMult[5364];
-double detMult[5364];
-double sksMult[5364];
-double strMult[7364];
+double dirMult[6000];
+double critMult[6000];
+double detMult[6000];
+double sksMult[6000];
+double strMult[7000];
 
 BiSFinder::BiSFinder()
 {
@@ -111,38 +111,38 @@ void BiSFinder::init()
 //    addExclusion("Crafted", Bracelets);
 //    addExclusion("Crafted", Ring);
 
-    string file_name;
-    if (ILVL == 340) {
-        file_name = "bis/i340.txt";
-    } else if (ILVL == 370) {
-        file_name = "bis/i370.txt";
-    } else if (ILVL == 375) {
-        file_name = "bis/i375.txt";
-    } else if (ILVL == 400) {
-        file_name = "bis/i400.txt";
-    } else if (ILVL == 450) {
-        file_name = "bis/i450.txt";
-    } else if (ILVL == 470) {
-        file_name = "bis/i470.txt";
-    } else if (ILVL == 475) {
-        file_name = "bis/i475.txt";
-    } else if (ILVL == 499) {
-        file_name = "bis/i499.txt";
-    } else if (ILVL == 500) {
-        file_name = "bis/i500.txt";
-    } else if (ILVL == 530) {
-        file_name = "bis/i530.txt";
-    } else if (ILVL == 600) {
-        file_name = "bis/i600.txt";
-    } else if (ILVL == 605) {
-        file_name = "bis/i605.txt";
-    } else if (ILVL == 630) {
-        file_name = "bis/i630.txt";
-    } else if (ILVL == 660) {
-        file_name = "bis/i660.txt";
-    } else {
-        cout << "Unknown iLvl" << endl;
-    }
+    string file_name = "bis/gear.txt";
+//    if (ILVL == 340) {
+//        file_name = "bis/i340.txt";
+//    } else if (ILVL == 370) {
+//        file_name = "bis/i370.txt";
+//    } else if (ILVL == 375) {
+//        file_name = "bis/i375.txt";
+//    } else if (ILVL == 400) {
+//        file_name = "bis/i400.txt";
+//    } else if (ILVL == 450) {
+//        file_name = "bis/i450.txt";
+//    } else if (ILVL == 470) {
+//        file_name = "bis/i470.txt";
+//    } else if (ILVL == 475) {
+//        file_name = "bis/i475.txt";
+//    } else if (ILVL == 499) {
+//        file_name = "bis/i499.txt";
+//    } else if (ILVL == 500) {
+//        file_name = "bis/i500.txt";
+//    } else if (ILVL == 530) {
+//        file_name = "bis/i530.txt";
+//    } else if (ILVL == 600) {
+//        file_name = "bis/i600.txt";
+//    } else if (ILVL == 605) {
+//        file_name = "bis/i605.txt";
+//    } else if (ILVL == 630) {
+//        file_name = "bis/i630.txt";
+//    } else if (ILVL == 660) {
+//        file_name = "bis/i660.txt";
+//    } else {
+//        cout << "Unknown iLvl" << endl;
+//    }
     ifstream file(file_name.c_str(), ios::in);
     if (!file)
         cout << "Erreur lecture " << file_name << endl;
@@ -205,21 +205,21 @@ void BiSFinder::init()
 //    ifstream sksMultFile("bis/sks.txt", ios::in);
 //    if (!sksMultFile)
 //        cout << "Erreur lecture bis/sks.txt" << endl;
-    for (int i = 0; i < 4000; i++) {
-        dirMult[i+400] = floor( i * 550 / 1900.0 ) / 1000.0 * 0.25 + 1;
-//        critMultFile >> critMult[i+400];
-//        critMult[i+400] = ((floor( i / (1900.0 * 5) * 1000 ) / 1000.0 + 0.05 + 0.02) * (floor( i / (1900.0 * 5) * 1000 ) / 1000.0 + 0.40) + 1) / 1.028;
-        critMult[i+400] = (floor( i / (1900.0 * 5) * 1000 ) / 1000.0 + 0.05) * (floor( i / (1900.0 * 5) * 1000 ) / 1000.0 + 0.40) + 1;
-        detMult[i+390] = floor( i * 140 / 1900.0 ) / 1000.0 + 1;
-//        sksMultFile >> sksMult[i+400];
-        sksMult[i+400] = 1; // Needs checking
+    for (int i = 0; i < 5000; i++) {
+        dirMult[i+420] = floor( i * 550 / 2780.0 ) / 1000.0 * 0.25 + 1;
+//        critMultFile >> critMult[i+420];
+//        critMult[i+420] = ((floor( i / (2780.0 * 5) * 1000 ) / 1000.0 + 0.05 + 0.02) * (floor( i / (2780.0 * 5) * 1000 ) / 1000.0 + 0.40) + 1) / 1.028;
+        critMult[i+420] = (floor( i / (2780.0 * 5) * 1000 ) / 1000.0 + 0.05) * (floor( i / (2780.0 * 5) * 1000 ) / 1000.0 + 0.40) + 1;
+        detMult[i+440] = floor( i * 140 / 2780.0 ) / 1000.0 + 1;
+//        sksMultFile >> sksMult[i+420];
+        sksMult[i+420] = 1; // Needs checking
 //         sksMult[i+384] = 1 + 0.233 * (floor(1000.0 / (1 - (floor( i * 130 / 3300.0 ) / 1000.0))) / 1000 - 1) // AA + DoT
 //                            + 0.546 * (2.5 / (floor((1 - floor( i * 130 / 3300.0 ) / 1000.0 ) * 2.5 * 100) / 100) - 1); // GCD
 //        sksMult[i+364] = 1 + 0.223 * (floor(1000.0 / (1 - (floor( i * 130 / 2170.0 ) / 1000.0))) / 1000 - 1)
 //                           + 0.559 * (2.5 / (floor((1 - floor( i * 130 / 2170.0 ) / 1000.0 ) * 2.5 * 100) / 100) - 1);
     }
     for (int i = 0; i < 6000; i++) {
-        strMult[i+390] = floor( 100 + ( i * 195 / 390.0) ) / 100.0;
+        strMult[i+440] = floor( 100 + ( i * 237 / 440.0) ) / 100.0;
     }
     critMultFile.close();
 //    sksMultFile.close();

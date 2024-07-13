@@ -1,4 +1,4 @@
-Melon Pie	0.1	97	0	0	0.1	58	0	0
-Melon Juice	0.1	58	0	0	0	0	0.1	97
-Carrot Pudding	0	0	0.1	58	0.1	97	0	0
-Sunset Carrot Nibbles	0	0	0.1	97	0	0	0.1	58
+Driftwood Catfish Pie	0.1	113	0	0	0.1	68	0	0
+Mesquite Soup	0.1	73	0	0	0	0	0.1	121
+Fruit and Aloe Jelly	0	0	0.1	68	0.1	113	0	0
+Vegetable Soup	0.1	121	0	0	0.1	73	0	0

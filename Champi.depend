@@ -524,7 +524,7 @@
 
 1496424423 source:d:\champi\resources\resources.rc
 
-1684521534 source:d:\champi\src\bisfinder.cpp
+1720873031 source:d:\champi\src\bisfinder.cpp
 	"BiSFinder.h"
 
 1608756431 d:\champi\include\bisfinder.h
@@ -560,7 +560,7 @@
 	"GearPiece.h"
 	"FullSet.h"
 
-1597131109 d:\champi\include\commonstructs.h
+1720866665 d:\champi\include\commonstructs.h
 	<string>
 	"GearPiece.h"
 
@@ -568,10 +568,10 @@
 	<iostream>
 	"BiSFinder.h"
 
-1641511833 source:d:\champi\src\meldfinder.cpp
+1720872882 source:d:\champi\src\meldfinder.cpp
 	"MeldFinder.h"
 
-1650454354 source:d:\champi\src\gearpiece.cpp
+1720868371 source:d:\champi\src\gearpiece.cpp
 	"GearPiece.h"
 
 1580841223 d:\champi\include\gearpiece.h
@@ -591,6 +591,6 @@
 	"CommonStructs.h"
 	"GearPiece.h"
 
-1641305319 source:d:\champi\src\fullset.cpp
+1720868119 source:d:\champi\src\fullset.cpp
 	"FullSet.h"
 

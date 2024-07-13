@@ -46,11 +46,11 @@ FullSet::~FullSet()
 void FullSet::updateStats()
 {
     gearStats.wd = 0;
-    gearStats.str = 450;
-    gearStats.subs[0] = 400;
-    gearStats.subs[1] = 400;
-    gearStats.subs[2] = 390;
-    gearStats.subs[3] = 400;
+    gearStats.str = 508;
+    gearStats.subs[0] = 420;
+    gearStats.subs[1] = 420;
+    gearStats.subs[2] = 440;
+    gearStats.subs[3] = 420;
     for (int i = 0; i < 12; i++) {
         if (i == 4) continue;
         GearPiece* piece = gear_set[i];
@@ -142,22 +142,22 @@ void FullSet::switchPiece(int type, vector<GearPiece*>* gearPieces)
 
 void FullSet::displayStats(std::ostream& output)
 {
-    output << "---------- GCD: " << gcd / 100.0 << /*" | Mult:" << dps << " | Rank:" << setRank <<*/ " ----------" << endl
-          << "Food: " << food->name << endl
-          << "Wd  : " << foodMeldedGearStats.wd << endl
-          << "Str : " << gearStats.str << " | " << foodMeldedGearStats.str << endl
-          << "Dh  : " << foodMeldedGearStats.subs[0]                       << endl
-          << "Crit: " << foodMeldedGearStats.subs[1]                       << endl
-          << "Det : " << foodMeldedGearStats.subs[2]                       << endl
-          << "Sks : " << foodMeldedGearStats.subs[3]                       << endl;
 //    output << "---------- GCD: " << gcd / 100.0 << /*" | Mult:" << dps << " | Rank:" << setRank <<*/ " ----------" << endl
 //          << "Food: " << food->name << endl
 //          << "Wd  : " << foodMeldedGearStats.wd << endl
-//          << "Str : " << gearStats.str << " | " << foodMeldedGearStats.str << " | Mult: " << strMult[foodMeldedGearStats.str]   << endl
-//          << "Dh  : " << foodMeldedGearStats.subs[0]                       << " | Mult: " << dirMult[foodMeldedGearStats.subs[0]]   << endl
-//          << "Crit: " << foodMeldedGearStats.subs[1]                       << " | Mult: " << critMult[foodMeldedGearStats.subs[1]] << endl
-//          << "Det : " << foodMeldedGearStats.subs[2]                       << " | Mult: " << detMult[foodMeldedGearStats.subs[2]]   << endl
-//          << "Sks : " << foodMeldedGearStats.subs[3]                       << " | Mult: " << sksMult[foodMeldedGearStats.subs[3]]   << endl;
+//          << "Str : " << gearStats.str << " | " << foodMeldedGearStats.str << endl
+//          << "Dh  : " << foodMeldedGearStats.subs[0]                       << endl
+//          << "Crit: " << foodMeldedGearStats.subs[1]                       << endl
+//          << "Det : " << foodMeldedGearStats.subs[2]                       << endl
+//          << "Sks : " << foodMeldedGearStats.subs[3]                       << endl;
+    output << "---------- GCD: " << gcd / 100.0 << /*" | Mult:" << dps << " | Rank:" << setRank <<*/ " ----------" << endl
+          << "Food: " << food->name << endl
+          << "Wd  : " << foodMeldedGearStats.wd << endl
+          << "Str : " << gearStats.str << " | " << foodMeldedGearStats.str << " | Mult: " << strMult[foodMeldedGearStats.str]   << endl
+          << "Dh  : " << foodMeldedGearStats.subs[0]                       << " | Mult: " << dirMult[foodMeldedGearStats.subs[0]]   << endl
+          << "Crit: " << foodMeldedGearStats.subs[1]                       << " | Mult: " << critMult[foodMeldedGearStats.subs[1]] << endl
+          << "Det : " << foodMeldedGearStats.subs[2]                       << " | Mult: " << detMult[foodMeldedGearStats.subs[2]]   << endl
+          << "Sks : " << foodMeldedGearStats.subs[3]                       << " | Mult: " << sksMult[foodMeldedGearStats.subs[3]]   << endl;
 }
 
 void FullSet::displaySet(std::ostream& output)

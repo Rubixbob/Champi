@@ -1,7 +1,7 @@
 #include "GearPiece.h"
 
 // TODO: delete later
-#define MAT 36
+#define MAT 54
 
 GearPiece::GearPiece()
 {
@@ -77,7 +77,7 @@ void GearPiece::init()
     meldSlots = 2;
 //    if (type == 0)
 //        meldSlots = 3;
-    if (name == "Dung" && (type == 4 || type >= 7))
+    if (name == "Dung" || name == "Ex2" || name == "Tomes1" && (type == 4 || type >= 7))
         meldSlots = 1;
     if (name == "Ult" && type == 0)
         meldSlots = 3;

@@ -1,7 +1,7 @@
 #include "MeldFinder.h"
 
-#define MAT 36
-#define MIN_SKS 400
+#define MAT 54
+#define MIN_SKS 420
 #define MAX_SKS 5000
 // TODO: rework into gear
 //int meldSlotsTable[11] = {2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2};
@@ -49,11 +49,11 @@ void MeldFinder::findBestMelds()
 
     statStruct gearStats;
     gearStats.wd = 0;
-    gearStats.str = 450;
-    gearStats.subs[0] = 400;
-    gearStats.subs[1] = 400;
-    gearStats.subs[2] = 390;
-    gearStats.subs[3] = 400;
+    gearStats.str = 508;
+    gearStats.subs[0] = 420;
+    gearStats.subs[1] = 420;
+    gearStats.subs[2] = 440;
+    gearStats.subs[3] = 420;
     for (int i = 0; i < 12; i++) {
         if (i == 4) continue;
         GearPiece* piece = m_full_set->gear_set[i];
@@ -99,8 +99,8 @@ void MeldFinder::findBestMelds()
         GearPiece* piece = m_full_set->gear_set[i];
         availableSlotsInit[piece->subStat] += round(1.0 * min(piece->subs[piece->mainStat] - piece->subs[piece->subStat], piece->meldSlots * MAT) / MAT);
 //        cout << "type " << piece->type << " sub " << subMeldTable[piece->type] << " slots " << round(1.0 * min(subs[mainStat] - subs[subStat], meldSlots * MAT) / MAT) << endl;
-        availableSlotsInit[piece->thirdStat] += 2;
-        availableSlotsInit[piece->fourthStat] += 2;
+        availableSlotsInit[piece->thirdStat] += piece->meldSlots;
+        availableSlotsInit[piece->fourthStat] += piece->meldSlots;
     }
 //    cout << "dh " << availableSlotsInit[0] << " crit " << availableSlotsInit[1] << " det " << availableSlotsInit[2] << " sks " << availableSlotsInit[3] << endl;
 //    for (int i = 0; i < 12; i++) {
@@ -132,12 +132,16 @@ void MeldFinder::findBestMelds()
     }
 //    int gearMeldTable[12][5];
 
-//    meldComb[0] = 0;
-//    meldComb[1] = 2;
-//    meldComb[2] = 5;
-//    meldComb[3] = 18;
+//    meldComb[0] = 2;
+//    meldComb[1] = 7;
+//    meldComb[2] = 8;
+//    meldComb[3] = 0;
 
     while (meldComb[0] <= maxMeldSlots) {
+        if (meldComb[0] == 2 && meldComb[1] == 7 && meldComb[2] == 8 && meldComb[3] == 0
+            || meldComb[0] == 4 && meldComb[1] == 5 && meldComb[2] == 8 && meldComb[3] == 0) {
+            cout << "start loop" << endl;
+        }
         bool possible = true;
 //        cout << setw(2) << meldComb[0] << " " << setw(2) << meldComb[1] << " " << setw(2) << meldComb[2] << " " << setw(2) << meldComb[3] << endl;
         // Init
@@ -175,10 +179,10 @@ void MeldFinder::findBestMelds()
                 // Compute dps and compare to saved sets
                 if (maxFoodMeldedGearStat.subs[3] >= MIN_SKS && gearStats.subs[3] <= MAX_SKS) {
                     double dps = dirMult[maxFoodMeldedGearStat.subs[0]] * critMult[maxFoodMeldedGearStat.subs[1]] * detMult[maxFoodMeldedGearStat.subs[2]] * sksMult[maxFoodMeldedGearStat.subs[3]] * strMult[maxFoodMeldedGearStat.str];
-                    unsigned int gcd = floor(round((1 - floor( (maxFoodMeldedGearStat.subs[3] - 400) * 130 / 1900.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
-                    unsigned int minGcd = floor(round((1 - floor( (gearStats.subs[3] - 400) * 130 / 1900.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
+                    unsigned int gcd = floor(round((1 - floor( (maxFoodMeldedGearStat.subs[3] - 420) * 130 / 2780.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
+                    unsigned int minGcd = floor(round((1 - floor( (gearStats.subs[3] - 420) * 130 / 2780.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
                     if (gearStats.subs[3] < MIN_SKS)
-                        minGcd = floor(round((1 - floor( (MIN_SKS - 400) * 130 / 1900.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
+                        minGcd = floor(round((1 - floor( (MIN_SKS - 420) * 130 / 2780.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
                     int idx = 250 - gcd;
                     int minIdx = 250 - minGcd;
                     // Check all saved dps within gcd range
@@ -339,6 +343,10 @@ void MeldFinder::findBestMelds()
                 }
                 savedScore = score;
             }
+            if (meldComb[0] == 2 && meldComb[1] == 7 && meldComb[2] == 8 && meldComb[3] == 0
+            || meldComb[0] == 4 && meldComb[1] == 5 && meldComb[2] == 8 && meldComb[3] == 0) {
+                cout << "Saved score " << savedScore << endl;
+            }
 
             // Create set + melds
             if (savedScore > 0) {
@@ -373,6 +381,10 @@ void MeldFinder::findBestMelds()
                     for (int i = 0; i < 4; i++) {
                         meldedGearStat.subs[i] += m_full_set->gear_set[j]->matStat[savedPerm[j]][i];
                     }
+                    if (meldComb[0] == 2 && meldComb[1] == 7 && meldComb[2] == 8 && meldComb[3] == 0
+                        || meldComb[0] == 4 && meldComb[1] == 5 && meldComb[2] == 8 && meldComb[3] == 0) {
+                        cout << "Gear stats " << m_full_set->gear_set[j]->matStat[savedPerm[j]][0] << " " << m_full_set->gear_set[j]->matStat[savedPerm[j]][1] << " " << m_full_set->gear_set[j]->matStat[savedPerm[j]][2] << " " << m_full_set->gear_set[j]->matStat[savedPerm[j]][3] << endl;
+                    }
                 }
 //                cout << meldedGearStat.wd << " " << meldedGearStat.str << " " << meldedGearStat.subs[0] << " " << meldedGearStat.subs[1] << " " << meldedGearStat.subs[2] << " " << meldedGearStat.subs[3] << endl;
 
@@ -389,8 +401,16 @@ void MeldFinder::findBestMelds()
                     // Compute dps and compare to saved sets
                     if (foodMeldedGearStat.subs[3] >= MIN_SKS && foodMeldedGearStat.subs[3] <= MAX_SKS) {
                         double dps = dirMult[foodMeldedGearStat.subs[0]] * critMult[foodMeldedGearStat.subs[1]] * detMult[foodMeldedGearStat.subs[2]] * sksMult[foodMeldedGearStat.subs[3]] * strMult[foodMeldedGearStat.str];
-                        unsigned int gcd = floor(round((1 - floor( (foodMeldedGearStat.subs[3] - 400) * 130 / 1900.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
+                        unsigned int gcd = floor(round((1 - floor( (foodMeldedGearStat.subs[3] - 420) * 130 / 2780.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
                         int idx = 250 - gcd;
+                        if (meldComb[0] == 2 && meldComb[1] == 7 && meldComb[2] == 8 && meldComb[3] == 0
+                            || meldComb[0] == 4 && meldComb[1] == 5 && meldComb[2] == 8 && meldComb[3] == 0) {
+                            cout << "Idx " << idx << endl;
+                            cout << "DPS " << dps << endl;
+                            cout << "Stats gear " << gearStats.str << " " << gearStats.subs[0] << " " << gearStats.subs[1] << " " << gearStats.subs[2] << " " << gearStats.subs[3] << endl;
+                            cout << "Stats melded " << meldedGearStat.str << " " << meldedGearStat.subs[0] << " " << meldedGearStat.subs[1] << " " << meldedGearStat.subs[2] << " " << meldedGearStat.subs[3] << endl;
+                            cout << "Stats foodMelded " << foodMeldedGearStat.str << " " << foodMeldedGearStat.subs[0] << " " << foodMeldedGearStat.subs[1] << " " << foodMeldedGearStat.subs[2] << " " << foodMeldedGearStat.subs[3] << endl;
+                        }
 //                        mutex_saved_sets[idx].lock();
                         if (!m_saved_sets[idx] || dps > m_saved_sets[idx]->dps) {
                             // Create set
@@ -444,6 +464,14 @@ void MeldFinder::findBestMelds()
 //                }
 //            }
 //            cin.get(a);
+        }
+
+
+        if (meldComb[0] == 2 && meldComb[1] == 7 && meldComb[2] == 8 && meldComb[3] == 0
+            || meldComb[0] == 4 && meldComb[1] == 5 && meldComb[2] == 8 && meldComb[3] == 0) {
+            cout << "Saved DPS for 2.50 " << m_saved_sets[0]->dps << endl;
+            char a;
+            cin.get(a);
         }
 
         meldComb[0] = (meldCombOld[0] + meldCombOld[1] == maxMeldSlots) ? (meldCombOld[0] + 1) : meldCombOld[0];
