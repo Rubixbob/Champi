@@ -1,30 +1,11 @@
 ---------- GCD: 2.5 ----------
 Food: Vegetable Soup
 Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2449 | Mult: 1.10025
-Crit: 1880 | Mult: 1.07828
-Det : 2429 | Mult: 1.1
-Sks : 420 | Mult: 1
-Weapon     Ex     Determination    Determination   
-Head       Tomes  Determination    Determination   
-Body       Tomes  Direct Hit Rate  Critical Hit    
-Hands      Tomes  Direct Hit Rate  Determination   
-Legs       AF     Direct Hit Rate  Determination   
-Feet       Tomes  Critical Hit     Determination   
-Earrings   Ex2    Direct Hit Rate 
-Necklace   Ex2    Critical Hit    
-Bracelets  Ex2    Determination   
-Ring       Ex2    Critical Hit    
-Ring       Dung   Critical Hit    
----------- GCD: 2.49 ----------
-Food: Vegetable Soup
-Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2341 | Mult: 1.095
-Crit: 1938 | Mult: 1.08093
-Det : 2429 | Mult: 1.1
-Sks : 474 | Mult: 1
+Str : 4270 | 4483
+Dh  : 2341
+Crit: 1992
+Det : 2430
+Sks : 420
 Weapon     Ex     Determination    Determination   
 Head       Tomes  Determination    Determination   
 Body       Tomes  Critical Hit     Critical Hit    
@@ -33,18 +14,18 @@ Legs       AF     Direct Hit Rate  Determination
 Feet       Tomes  Critical Hit     Determination   
 Earrings   Ex2    Critical Hit    
 Necklace   Ex2    Critical Hit    
-Bracelets  Ex2    Determination   
+Bracelets  Ex2    Critical Hit    
 Ring       Ex2    Critical Hit    
-Ring       Dung   Skill Speed     
----------- GCD: 2.48 ----------
+Ring       Dung   Determination   
+---------- GCD: 2.49 ----------
 Food: Vegetable Soup
 Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2341 | Mult: 1.095
-Crit: 2047 | Mult: 1.08634
-Det : 2268 | Mult: 1.092
-Sks : 528 | Mult: 1
-Weapon     Ex     Critical Hit     Critical Hit    
+Str : 4270 | 4483
+Dh  : 2341
+Crit: 1939
+Det : 2430
+Sks : 474
+Weapon     Ex     Determination    Determination   
 Head       Tomes  Determination    Determination   
 Body       Tomes  Critical Hit     Critical Hit    
 Hands      Tomes  Direct Hit Rate  Determination   
@@ -54,194 +35,365 @@ Earrings   Ex2    Skill Speed
 Necklace   Ex2    Critical Hit    
 Bracelets  Ex2    Critical Hit    
 Ring       Ex2    Critical Hit    
-Ring       Dung   Skill Speed     
----------- GCD: 2.47 ----------
+Ring       Dung   Determination   
+---------- GCD: 2.48 ----------
 Food: Vegetable Soup
 Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2449 | Mult: 1.10025
-Crit: 1669 | Mult: 1.06797
-Det : 2429 | Mult: 1.1
-Sks : 636 | Mult: 1
+Str : 4283 | 4497
+Dh  : 2448
+Crit: 1664
+Det : 2548
+Sks : 541
 Weapon     Ex     Determination    Determination   
 Head       Tomes  Determination    Determination   
 Body       Tomes  Direct Hit Rate  Critical Hit    
 Hands      Tomes  Direct Hit Rate  Determination   
-Legs       AF     Direct Hit Rate  Determination   
+Legs       AF     Direct Hit Rate  Direct Hit Rate 
+Feet       Tomes  Critical Hit     Determination   
+Earrings   Ex2    Direct Hit Rate 
+Necklace   Ex2    Direct Hit Rate 
+Bracelets  Ex2    Determination   
+Ring       Ex2    Critical Hit    
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.47 ----------
+Food: Vegetable Soup
+Wd  : 141
+Str : 4296 | 4510
+Dh  : 2449
+Crit: 1798
+Det : 2307
+Sks : 664
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Direct Hit Rate  Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Direct Hit Rate  Determination   
+Feet       Tomes  Critical Hit     Determination   
+Earrings   Ex2    Direct Hit Rate 
+Necklace   Ex2    Critical Hit    
+Bracelets  Ex2    Determination   
+Ring       Ex2    Determination   
+Ring       Dung   Determination   
+---------- GCD: 2.46 ----------
+Food: Vegetable Soup
+Wd  : 141
+Str : 4296 | 4510
+Dh  : 2341
+Crit: 1852
+Det : 2308
+Sks : 718
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Direct Hit Rate  Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Determination    Determination   
+Feet       Tomes  Critical Hit     Determination   
+Earrings   Ex2    Skill Speed     
+Necklace   Ex2    Critical Hit    
+Bracelets  Ex2    Determination   
+Ring       Ex2    Critical Hit    
+Ring       Dung   Determination   
+---------- GCD: 2.45 ----------
+Food: Vegetable Soup
+Wd  : 141
+Str : 4309 | 4524
+Dh  : 2341
+Crit: 1685
+Det : 2426
+Sks : 785
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Direct Hit Rate  Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Direct Hit Rate  Determination   
+Feet       Tomes  Critical Hit     Determination   
+Earrings   Ex2    Direct Hit Rate 
+Necklace   Ex2    Critical Hit    
+Bracelets  Ex2    Determination   
+Ring       Ex2    Determination   
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.44 ----------
+Food: Vegetable Soup
+Wd  : 141
+Str : 4309 | 4524
+Dh  : 2341
+Crit: 1577
+Det : 2426
+Sks : 893
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Direct Hit Rate  Critical Hit    
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Direct Hit Rate  Determination   
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Ex2    Direct Hit Rate 
+Necklace   Ex2    Skill Speed     
+Bracelets  Ex2    Determination   
+Ring       Ex2    Determination   
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.43 ----------
+Food: Vegetable Soup
+Wd  : 141
+Str : 4309 | 4524
+Dh  : 2287
+Crit: 1523
+Det : 2427
+Sks : 1001
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Direct Hit Rate  Skill Speed     
+Hands      Tomes  Direct Hit Rate  Determination   
+Legs       Tomes  Determination    Determination   
 Feet       Tomes  Determination    Skill Speed     
 Earrings   Ex2    Direct Hit Rate 
 Necklace   Ex2    Skill Speed     
 Bracelets  Ex2    Determination   
 Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
----------- GCD: 2.46 ----------
-Food: Vegetable Soup
-Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2341 | Mult: 1.095
-Crit: 1669 | Mult: 1.06797
-Det : 2429 | Mult: 1.1
-Sks : 744 | Mult: 1
-Weapon     Ex     Determination    Determination   
-Head       Tomes  Determination    Determination   
-Body       Tomes  Direct Hit Rate  Critical Hit    
-Hands      Tomes  Direct Hit Rate  Determination   
-Legs       AF     Determination    Skill Speed     
-Feet       Tomes  Determination    Skill Speed     
-Earrings   Ex2    Skill Speed     
-Necklace   Ex2    Skill Speed     
-Bracelets  Ex2    Determination   
-Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
----------- GCD: 2.45 ----------
-Food: Vegetable Soup
-Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2341 | Mult: 1.095
-Crit: 1615 | Mult: 1.06547
-Det : 2429 | Mult: 1.1
-Sks : 798 | Mult: 1
-Weapon     Ex     Determination    Determination   
-Head       Tomes  Determination    Determination   
-Body       Tomes  Skill Speed      Skill Speed     
-Hands      Tomes  Direct Hit Rate  Determination   
-Legs       AF     Direct Hit Rate  Determination   
-Feet       Tomes  Determination    Skill Speed     
-Earrings   Ex2    Skill Speed     
-Necklace   Ex2    Skill Speed     
-Bracelets  Ex2    Determination   
-Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
----------- GCD: 2.44 ----------
-Food: Vegetable Soup
-Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2341 | Mult: 1.095
-Crit: 1669 | Mult: 1.06797
-Det : 2268 | Mult: 1.092
-Sks : 906 | Mult: 1
-Weapon     Ex     Critical Hit     Determination   
-Head       Tomes  Determination    Determination   
-Body       Tomes  Skill Speed      Skill Speed     
-Hands      Tomes  Direct Hit Rate  Determination   
-Legs       AF     Direct Hit Rate  Determination   
-Feet       Tomes  Skill Speed      Skill Speed     
-Earrings   Ex2    Skill Speed     
-Necklace   Ex2    Skill Speed     
-Bracelets  Ex2    Skill Speed     
-Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
----------- GCD: 2.43 ----------
-Food: Vegetable Soup
-Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2341 | Mult: 1.095
-Crit: 1615 | Mult: 1.06547
-Det : 2268 | Mult: 1.092
-Sks : 960 | Mult: 1
-Weapon     Ex     Determination    Determination   
-Head       Tomes  Determination    Determination   
-Body       Tomes  Skill Speed      Skill Speed     
-Hands      Tomes  Direct Hit Rate  Determination   
-Legs       AF     Direct Hit Rate  Skill Speed     
-Feet       Tomes  Skill Speed      Skill Speed     
-Earrings   Ex2    Skill Speed     
-Necklace   Ex2    Skill Speed     
-Bracelets  Ex2    Skill Speed     
-Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
+Ring       Tomes1 Direct Hit Rate 
 ---------- GCD: 2.42 ----------
 Food: Vegetable Soup
 Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2233 | Mult: 1.0895
-Crit: 1615 | Mult: 1.06547
-Det : 2268 | Mult: 1.092
-Sks : 1068 | Mult: 1
+Str : 4309 | 4524
+Dh  : 2179
+Crit: 1577
+Det : 2427
+Sks : 1055
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Direct Hit Rate  Critical Hit    
+Hands      Tomes  Determination    Skill Speed     
+Legs       Tomes  Determination    Determination   
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Ex2    Skill Speed     
+Necklace   Ex2    Skill Speed     
+Bracelets  Ex2    Determination   
+Ring       Ex2    Skill Speed     
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.41 ----------
+Food: Vegetable Soup
+Wd  : 141
+Str : 4309 | 4524
+Dh  : 2125
+Crit: 1523
+Det : 2427
+Sks : 1163
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Tomes  Determination    Skill Speed     
+Legs       Tomes  Determination    Determination   
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Ex2    Skill Speed     
+Necklace   Ex2    Skill Speed     
+Bracelets  Ex2    Determination   
+Ring       Ex2    Skill Speed     
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.4 ----------
+Food: Vegetable Soup
+Wd  : 141
+Str : 4309 | 4524
+Dh  : 2071
+Crit: 1523
+Det : 2427
+Sks : 1215
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Tomes  Determination    Skill Speed     
+Legs       Tomes  Determination    Determination   
+Feet       Tomes  Determination    Skill Speed     
+Earrings   Ex2    Skill Speed     
+Necklace   Ex2    Skill Speed     
+Bracelets  Ex2    Determination   
+Ring       Ex2    Skill Speed     
+Ring       Tomes1 Skill Speed     
+---------- GCD: 2.39 ----------
+Food: Vegetable Soup
+Wd  : 141
+Str : 4309 | 4524
+Dh  : 2179
+Crit: 1523
+Det : 2212
+Sks : 1325
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Determination   
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Tomes  Direct Hit Rate  Skill Speed     
+Legs       Tomes  Determination    Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Ex2    Skill Speed     
+Necklace   Ex2    Skill Speed     
+Bracelets  Ex2    Skill Speed     
+Ring       Ex2    Skill Speed     
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.38 ----------
+Food: Mesquite Soup
+Wd  : 141
+Str : 4309 | 4524
+Dh  : 2077
+Crit: 1523
+Det : 2247
+Sks : 1392
 Weapon     Ex     Determination    Determination   
 Head       Tomes  Determination    Determination   
 Body       Tomes  Skill Speed      Skill Speed     
 Hands      Tomes  Skill Speed      Skill Speed     
-Legs       AF     Skill Speed      Skill Speed     
-Feet       Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Determination    Determination   
+Feet       Tomes  Determination    Skill Speed     
 Earrings   Ex2    Skill Speed     
 Necklace   Ex2    Skill Speed     
 Bracelets  Ex2    Skill Speed     
 Ring       Ex2    Skill Speed     
-Ring       Dung   Determination   
----------- GCD: 2.41 ----------
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.37 ----------
 Food: Vegetable Soup
 Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2341 | Mult: 1.095
-Crit: 1615 | Mult: 1.06547
-Det : 2052 | Mult: 1.081
-Sks : 1176 | Mult: 1
-Weapon     Ex     Determination    Skill Speed     
+Str : 4309 | 4524
+Dh  : 2179
+Crit: 1523
+Det : 2050
+Sks : 1487
+Weapon     Ex     Determination    Determination   
 Head       Tomes  Skill Speed      Skill Speed     
 Body       Tomes  Skill Speed      Skill Speed     
-Hands      Tomes  Direct Hit Rate  Direct Hit Rate 
-Legs       AF     Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Direct Hit Rate  Skill Speed     
 Feet       Tomes  Skill Speed      Skill Speed     
 Earrings   Ex2    Skill Speed     
 Necklace   Ex2    Skill Speed     
 Bracelets  Ex2    Skill Speed     
 Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
----------- GCD: 2.4 ----------
-Food: Vegetable Soup
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.36 ----------
+Food: Mesquite Soup
 Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2287 | Mult: 1.09225
-Crit: 1615 | Mult: 1.06547
-Det : 2052 | Mult: 1.081
-Sks : 1230 | Mult: 1
-Weapon     Ex     Determination    Skill Speed     
-Head       Tomes  Skill Speed      Skill Speed     
+Str : 4309 | 4524
+Dh  : 2131
+Crit: 1523
+Det : 2031
+Sks : 1554
+Weapon     Ex     Determination    Determination   
+Head       Tomes  Determination    Skill Speed     
 Body       Tomes  Skill Speed      Skill Speed     
-Hands      Tomes  Direct Hit Rate  Skill Speed     
-Legs       AF     Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Direct Hit Rate  Skill Speed     
 Feet       Tomes  Skill Speed      Skill Speed     
 Earrings   Ex2    Skill Speed     
 Necklace   Ex2    Skill Speed     
 Bracelets  Ex2    Skill Speed     
 Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
----------- GCD: 2.39 ----------
+Ring       Tomes1 Direct Hit Rate 
+---------- GCD: 2.35 ----------
 Food: Vegetable Soup
 Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2233 | Mult: 1.0895
-Crit: 1615 | Mult: 1.06547
-Det : 1998 | Mult: 1.078
-Sks : 1338 | Mult: 1
+Str : 4309 | 4524
+Dh  : 2071
+Crit: 1523
+Det : 1996
+Sks : 1647
 Weapon     Ex     Skill Speed      Skill Speed     
 Head       Tomes  Skill Speed      Skill Speed     
 Body       Tomes  Skill Speed      Skill Speed     
 Hands      Tomes  Skill Speed      Skill Speed     
-Legs       AF     Skill Speed      Skill Speed     
+Legs       Tomes  Determination    Skill Speed     
 Feet       Tomes  Skill Speed      Skill Speed     
 Earrings   Ex2    Skill Speed     
 Necklace   Ex2    Skill Speed     
 Bracelets  Ex2    Skill Speed     
 Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
----------- GCD: 2.38 ----------
+Ring       Tomes1 Skill Speed     
+---------- GCD: 2.34 ----------
 Food: Mesquite Soup
 Wd  : 141
-Str : 4270 | 4483 | Mult: 22.77
-Dh  : 2185 | Mult: 1.08725
-Crit: 1615 | Mult: 1.06547
-Det : 1979 | Mult: 1.077
-Sks : 1405 | Mult: 1
-Weapon     Ex     Determination    Skill Speed     
+Str : 4309 | 4524
+Dh  : 2023
+Crit: 1523
+Det : 1923
+Sks : 1768
+Weapon     Ex     Skill Speed      Skill Speed     
 Head       Tomes  Skill Speed      Skill Speed     
 Body       Tomes  Skill Speed      Skill Speed     
 Hands      Tomes  Skill Speed      Skill Speed     
-Legs       AF     Skill Speed      Skill Speed     
+Legs       Tomes  Determination    Skill Speed     
 Feet       Tomes  Skill Speed      Skill Speed     
 Earrings   Ex2    Skill Speed     
 Necklace   Ex2    Skill Speed     
 Bracelets  Ex2    Skill Speed     
 Ring       Ex2    Skill Speed     
-Ring       Dung   Skill Speed     
+Ring       Tomes1 Skill Speed     
+---------- GCD: 2.33 ----------
+Food: Mesquite Soup
+Wd  : 141
+Str : 4309 | 4524
+Dh  : 2023
+Crit: 1523
+Det : 1869
+Sks : 1818
+Weapon     Ex     Skill Speed      Skill Speed     
+Head       Tomes  Skill Speed      Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Ex2    Skill Speed     
+Necklace   Ex2    Skill Speed     
+Bracelets  Ex2    Skill Speed     
+Ring       Ex2    Skill Speed     
+Ring       Tomes1 Skill Speed     
+---------- GCD: 2.32 ----------
+Food: Mesquite Soup
+Wd  : 141
+Str : 4292 | 4506
+Dh  : 2010
+Crit: 1370
+Det : 1923
+Sks : 1908
+Weapon     Ex     Skill Speed      Skill Speed     
+Head       AF     Determination    Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Ex2    Skill Speed     
+Necklace   Ex2    Skill Speed     
+Bracelets  Ex2    Skill Speed     
+Ring       Ex2    Skill Speed     
+Ring       Tomes1 Skill Speed     
+---------- GCD: 2.31 ----------
+Food: Mesquite Soup
+Wd  : 141
+Str : 4265 | 4478
+Dh  : 2010
+Crit: 1300
+Det : 1854
+Sks : 2016
+Weapon     Ex     Skill Speed      Skill Speed     
+Head       AF     Critical Hit     Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Skill Speed      Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Dung   Skill Speed     
+Necklace   Ex2    Skill Speed     
+Bracelets  Ex2    Skill Speed     
+Ring       Ex2    Skill Speed     
+Ring       Tomes1 Skill Speed     
+---------- GCD: 2.3 ----------
+Food: Mesquite Soup
+Wd  : 141
+Str : 4238 | 4449
+Dh  : 1887
+Crit: 1246
+Det : 1951
+Sks : 2074
+Weapon     Ex     Skill Speed      Skill Speed     
+Head       AF     Determination    Skill Speed     
+Body       Tomes  Skill Speed      Skill Speed     
+Hands      Tomes  Skill Speed      Skill Speed     
+Legs       Tomes  Determination    Skill Speed     
+Feet       Tomes  Skill Speed      Skill Speed     
+Earrings   Dung   Skill Speed     
+Necklace   Ex2    Skill Speed     
+Bracelets  Dung   Direct Hit Rate 
+Ring       Ex2    Skill Speed     
+Ring       Tomes1 Skill Speed     

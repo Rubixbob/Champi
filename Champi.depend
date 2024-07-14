@@ -568,7 +568,7 @@
 	<iostream>
 	"BiSFinder.h"
 
-1720872882 source:d:\champi\src\meldfinder.cpp
+1720983957 source:d:\champi\src\meldfinder.cpp
 	"MeldFinder.h"
 
 1720868371 source:d:\champi\src\gearpiece.cpp
@@ -591,6 +591,6 @@
 	"CommonStructs.h"
 	"GearPiece.h"
 
-1720868119 source:d:\champi\src\fullset.cpp
+1720983839 source:d:\champi\src\fullset.cpp
 	"FullSet.h"
 
