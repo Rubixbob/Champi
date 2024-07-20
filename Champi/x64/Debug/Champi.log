@@ -1,0 +1,46 @@
+﻿  MeldFinder.cpp
+H:\Repos\Champi\src\MeldFinder.cpp(100,52): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(123,34): error C2131: expression did not evaluate to a constant
+  H:\Repos\Champi\src\MeldFinder.cpp(123,21):
+  failure was caused by a read of a variable outside its lifetime
+  H:\Repos\Champi\src\MeldFinder.cpp(123,21):
+  see usage of 'maxMeldSlots'
+  
+H:\Repos\Champi\src\MeldFinder.cpp(123,52): error C2131: expression did not evaluate to a constant
+  H:\Repos\Champi\src\MeldFinder.cpp(123,39):
+  failure was caused by a read of a variable outside its lifetime
+  H:\Repos\Champi\src\MeldFinder.cpp(123,39):
+  see usage of 'maxMeldSlots'
+  
+H:\Repos\Champi\src\MeldFinder.cpp(123,70): error C2131: expression did not evaluate to a constant
+  H:\Repos\Champi\src\MeldFinder.cpp(123,57):
+  failure was caused by a read of a variable outside its lifetime
+  H:\Repos\Champi\src\MeldFinder.cpp(123,57):
+  see usage of 'maxMeldSlots'
+  
+H:\Repos\Champi\src\MeldFinder.cpp(123,88): error C2131: expression did not evaluate to a constant
+  H:\Repos\Champi\src\MeldFinder.cpp(123,75):
+  failure was caused by a read of a variable outside its lifetime
+  H:\Repos\Champi\src\MeldFinder.cpp(123,75):
+  see usage of 'maxMeldSlots'
+  
+H:\Repos\Champi\src\MeldFinder.cpp(128,45): error C3863: array type 'int [maxMeldSlots+1][maxMeldSlots+1][maxMeldSlots+1][maxMeldSlots+1]' is not assignable
+H:\Repos\Champi\src\MeldFinder.cpp(170,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(172,79): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(172,79): warning C4244:         with
+H:\Repos\Champi\src\MeldFinder.cpp(172,79): warning C4244:         [
+H:\Repos\Champi\src\MeldFinder.cpp(172,79): warning C4244:             _Ty=double
+H:\Repos\Champi\src\MeldFinder.cpp(172,79): warning C4244:         ]
+H:\Repos\Champi\src\MeldFinder.cpp(178,38): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(179,41): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(181,39): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(282,81): error C3863: array type 'int [maxMeldSlots+1][maxMeldSlots+1][maxMeldSlots+1][maxMeldSlots+1]' is not assignable
+H:\Repos\Champi\src\MeldFinder.cpp(311,105): error C3863: array type 'int [maxMeldSlots+1][maxMeldSlots+1][maxMeldSlots+1][maxMeldSlots+1]' is not assignable
+H:\Repos\Champi\src\MeldFinder.cpp(384,65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(386,77): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(386,77): warning C4244:         with
+H:\Repos\Champi\src\MeldFinder.cpp(386,77): warning C4244:         [
+H:\Repos\Champi\src\MeldFinder.cpp(386,77): warning C4244:             _Ty=double
+H:\Repos\Champi\src\MeldFinder.cpp(386,77): warning C4244:         ]
+H:\Repos\Champi\src\MeldFinder.cpp(392,42): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+H:\Repos\Champi\src\MeldFinder.cpp(494,1): error C2036: 'int [maxMeldSlots+1][maxMeldSlots+1][maxMeldSlots+1][maxMeldSlots+1]': unknown size
