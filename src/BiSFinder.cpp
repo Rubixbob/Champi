@@ -46,7 +46,7 @@ bool set_recovered = false;
 
 sf::Mutex mutex_display;
 //sf::Mutex mutex_saved_set;
-sf::Mutex mutex_saved_sets[50];
+sf::Mutex mutex_saved_sets[100];
 
 sf::Mutex mutex_counter;
 unsigned int m_counter;
@@ -59,10 +59,13 @@ double detMult[6000];
 double sksMult[6000];
 double strMult[7000];
 
+unsigned int baseMainStat;
+unsigned int haste;
+
 BiSFinder::BiSFinder()
 {
     //ctor
-    for (int i = 0; i < 50; i++) {
+    for (int i = 0; i < 100; i++) {
         m_saved_sets[i] = nullptr;
     }
 }
@@ -110,6 +113,13 @@ void BiSFinder::init()
 //    addExclusion("Crafted", Necklace);
 //    addExclusion("Crafted", Bracelets);
 //    addExclusion("Crafted", Ring);
+
+    ifstream configFile("bis/config.txt", ios::in);
+    if (!configFile)
+        cout << "Erreur lecture bis/config.txt" << endl;
+
+    string label;
+    configFile >> label >> baseMainStat >> label >> haste;
 
     string file_name = "bis/gear.txt";
 //    if (ILVL == 340) {
@@ -205,6 +215,7 @@ void BiSFinder::init()
 //    ifstream sksMultFile("bis/sks.txt", ios::in);
 //    if (!sksMultFile)
 //        cout << "Erreur lecture bis/sks.txt" << endl;
+
     for (int i = 0; i < 5000; i++) {
         dirMult[i+420] = floor( i * 550 / 2780.0 ) / 1000.0 * 0.25 + 1;
 //        critMultFile >> critMult[i+420];
@@ -316,9 +327,9 @@ void BiSFinder::findBiS()
             }
         } else if (resultMeldFinder >= 0) {
             // Compare 1 result and save (+ delete when done)
-            while (resultSavedSet < 50 && !(meldFinders[resultMeldFinder]->m_saved_sets[resultSavedSet] && (!m_saved_sets[resultSavedSet] || meldFinders[resultMeldFinder]->m_saved_sets[resultSavedSet]->dps > m_saved_sets[resultSavedSet]->dps)))
+            while (resultSavedSet < 100 && !(meldFinders[resultMeldFinder]->m_saved_sets[resultSavedSet] && (!m_saved_sets[resultSavedSet] || meldFinders[resultMeldFinder]->m_saved_sets[resultSavedSet]->dps > m_saved_sets[resultSavedSet]->dps)))
                 resultSavedSet++;
-            if (resultSavedSet < 50) {
+            if (resultSavedSet < 100) {
                 if (m_saved_sets[resultSavedSet]) {
                     delete m_saved_sets[resultSavedSet];
                 }
@@ -326,7 +337,7 @@ void BiSFinder::findBiS()
                 meldFinders[resultMeldFinder]->m_saved_sets[resultSavedSet] = nullptr;
             }
             resultSavedSet++;
-            if (resultSavedSet >= 50) {
+            if (resultSavedSet >= 100) {
                 delete meldFinders[resultMeldFinder];
                 meldFinders.erase(meldFinders.begin() + resultMeldFinder);
                 resultMeldFinder = -1;
@@ -355,7 +366,7 @@ void BiSFinder::findBiS()
          << "Results can be found in bis/results.txt" << endl;
     displayResults();
 
-//    for (int i = 0; i < 50; i++) {
+//    for (int i = 0; i < 100; i++) {
 //        if (m_saved_sets[i])
 //            delete m_saved_sets[i];
 //    }
@@ -370,7 +381,7 @@ void BiSFinder::findBiS()
 void BiSFinder::displayResults()
 {
     // Rankings
-    for (int i = 0; i < 50; i++) {
+    for (int i = 0; i < 100; i++) {
         if (m_saved_sets[i]) {
             m_saved_sets[i]->setRank = i + 1;
             for (int j = 0; j < i; j++) {
@@ -383,7 +394,7 @@ void BiSFinder::displayResults()
     }
     ofstream resultFile("bis/results.txt", ios::out);
 //    cout << "Results:" << endl;
-    for (int i = 0; i < 50; i++) {
+    for (int i = 0; i < 100; i++) {
         if (m_saved_sets[i]) {
 //        m_saved_sets[i].displayStats(cout);
 //        m_saved_sets[i].displaySet(cout);

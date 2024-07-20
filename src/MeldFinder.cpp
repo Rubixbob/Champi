@@ -10,7 +10,7 @@
 MeldFinder::MeldFinder():done(false)
 {
     //ctor
-    for (int i = 0; i < 50; i++) {
+    for (int i = 0; i < 100; i++) {
         m_saved_sets[i] = nullptr;
     }
 }
@@ -20,7 +20,7 @@ MeldFinder::~MeldFinder()
     //dtor
 //    cout << "Meldfinder destructor called" << endl;
     delete m_full_set;
-    for (int i = 0; i < 50; i++) {
+    for (int i = 0; i < 100; i++) {
         if (m_saved_sets[i])
             delete m_saved_sets[i];
     }
@@ -49,7 +49,7 @@ void MeldFinder::findBestMelds()
 
     statStruct gearStats;
     gearStats.wd = 0;
-    gearStats.str = 508;
+    gearStats.str = baseMainStat;
     gearStats.subs[0] = 420;
     gearStats.subs[1] = 420;
     gearStats.subs[2] = 440;
@@ -175,10 +175,10 @@ void MeldFinder::findBestMelds()
                 // Compute dps and compare to saved sets
                 if (maxFoodMeldedGearStat.subs[3] >= MIN_SKS && gearStats.subs[3] <= MAX_SKS) {
                     double dps = dirMult[maxFoodMeldedGearStat.subs[0]] * critMult[maxFoodMeldedGearStat.subs[1]] * detMult[maxFoodMeldedGearStat.subs[2]] * sksMult[maxFoodMeldedGearStat.subs[3]] * strMult[maxFoodMeldedGearStat.str];
-                    unsigned int gcd = floor(round((1 - floor( (maxFoodMeldedGearStat.subs[3] - 420) * 130 / 2780.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
-                    unsigned int minGcd = floor(round((1 - floor( (gearStats.subs[3] - 420) * 130 / 2780.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
+                    unsigned int gcd = floor(floor(2.5 * (1000 - floor(130 * (maxFoodMeldedGearStat.subs[3] - 420) / 2780))) * (100 - haste) / 1000);
+                    unsigned int minGcd = floor(floor(2.5 * (1000 - floor(130 * (gearStats.subs[3] - 420) / 2780))) * (100 - haste) / 1000);
                     if (gearStats.subs[3] < MIN_SKS)
-                        minGcd = floor(round((1 - floor( (MIN_SKS - 420) * 130 / 2780.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
+                        minGcd = floor(floor(2.5 * (1000 - floor(130 * (MIN_SKS - 420) / 2780))) * (100 - haste) / 1000);
                     int idx = 250 - gcd;
                     int minIdx = 250 - minGcd;
                     // Check all saved dps within gcd range
@@ -389,7 +389,7 @@ void MeldFinder::findBestMelds()
                     // Compute dps and compare to saved sets
                     if (foodMeldedGearStat.subs[3] >= MIN_SKS && foodMeldedGearStat.subs[3] <= MAX_SKS) {
                         double dps = dirMult[foodMeldedGearStat.subs[0]] * critMult[foodMeldedGearStat.subs[1]] * detMult[foodMeldedGearStat.subs[2]] * sksMult[foodMeldedGearStat.subs[3]] * strMult[foodMeldedGearStat.str];
-                        unsigned int gcd = floor(round((1 - floor( (foodMeldedGearStat.subs[3] - 420) * 130 / 2780.0 ) / 1000.0 ) * 2.5 * 10000) / 100);
+                        unsigned int gcd = floor(floor(2.5 * (1000 - floor(130 * (foodMeldedGearStat.subs[3] - 420) / 2780))) * (100 - haste) / 1000);
                         int idx = 250 - gcd;
 //                        mutex_saved_sets[idx].lock();
                         if (!m_saved_sets[idx] || dps > m_saved_sets[idx]->dps) {
@@ -456,7 +456,7 @@ void MeldFinder::findBestMelds()
     }
 
 //    cout << "done in " << m_clock.getElapsedTime().asMilliseconds() << "ms" << endl;
-//    for (int i = 0; i < 50; i++) {
+//    for (int i = 0; i < 100; i++) {
 //        m_saved_sets[i].displayStats(cout);
 //        m_saved_sets[i].displaySet(cout);
 //    }

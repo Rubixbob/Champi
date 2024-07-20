@@ -46,7 +46,7 @@ FullSet::~FullSet()
 void FullSet::updateStats()
 {
     gearStats.wd = 0;
-    gearStats.str = 508;
+    gearStats.str = baseMainStat;
     gearStats.subs[0] = 420;
     gearStats.subs[1] = 420;
     gearStats.subs[2] = 440;

@@ -51,7 +51,7 @@ class BiSFinder
     private:
         vector<GearPiece*> m_gearPieces[11];
 //        fullSet m_saved_set;
-        FullSet* m_saved_sets[50];
+        FullSet* m_saved_sets[100];
 //        food m_food;
         vector<food> m_foods;
         FullSet m_full_set;

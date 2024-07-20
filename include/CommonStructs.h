@@ -21,5 +21,7 @@ extern sf::Mutex mutex_display;
 extern unsigned int m_counter;
 extern int max_counter;
 extern sf::Clock m_clock;
+extern unsigned int baseMainStat;
+extern unsigned int haste;
 
 #endif // COMMONSTRUCTS_H_INCLUDED

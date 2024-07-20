@@ -26,7 +26,7 @@ class MeldFinder
         void findBestMelds();
 
         FullSet* m_full_set;
-        FullSet* m_saved_sets[50];
+        FullSet* m_saved_sets[100];
         vector<food*> m_foods;
 
 //        double* dirMult;
