@@ -24,4 +24,4 @@ extern sf::Clock m_clock;
 extern unsigned int baseMainStat;
 extern unsigned int haste;
 
-#endif // COMMONSTRUCTS_H_INCLUDED
+#endif

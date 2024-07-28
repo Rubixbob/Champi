@@ -19,27 +19,21 @@
 
 class MeldFinder
 {
-    public:
-        MeldFinder();
-        virtual ~MeldFinder();
+public:
+	MeldFinder();
+	virtual ~MeldFinder();
 
-        void findBestMelds();
+	void findBestMelds();
 
-        FullSet* m_full_set;
-        FullSet* m_saved_sets[100];
-        vector<food*> m_foods;
+	FullSet* m_full_set;
+	FullSet* m_saved_sets[100];
+	vector<food*> m_foods;
 
-//        double* dirMult;
-//        double* critMult;
-//        double* detMult;
-//        double* sksMult;
-//        double* strMult;
+	bool done;
 
-        bool done;
+protected:
 
-    protected:
-
-    private:
+private:
 };
 
-#endif // MELDFINDER_H
+#endif
